@@ -1,12 +1,1640 @@
-<!doctype html><html lang="hi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sach Aapke Desh News</title><meta name="description" content="सच की आवाज़, आपके साथ"><style>
-*{box-sizing:border-box}body{margin:0;font-family:system-ui,sans-serif;background:#f4f6f8;color:#111827}header{background:#9f1239;color:#fff;padding:18px 14px;position:sticky;top:0;z-index:5}.wrap{max-width:1100px;margin:auto}.brand{font-size:24px;font-weight:800}.tag{font-size:13px;margin-top:3px;opacity:.9}nav{display:flex;gap:8px;overflow:auto;margin-top:13px}nav button{border:1px solid #fff6;background:#fff2;color:#fff;border-radius:999px;padding:8px 13px;white-space:nowrap}main{padding:22px 14px}.hero,.card,article{background:#fff;border-radius:17px;box-shadow:0 3px 16px #0001}.hero{padding:22px;margin-bottom:18px}.hero h1,article h1{line-height:1.12}.hero h1{font-size:clamp(27px,5vw,42px)}.kicker{color:#9f1239;font-weight:700;font-size:13px}.meta{color:#64748b;font-size:13px}.summary{line-height:1.6;color:#334155}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}.card{overflow:hidden}.cardbody{padding:16px}.card img,.hero img,article img{width:100%;max-height:520px;object-fit:cover}.card img{height:180px}.card h2{font-size:19px}.read{color:#9f1239;font-weight:700;cursor:pointer}.notice{text-align:center;padding:30px;color:#64748b}article{padding:22px}article .body{font-size:18px;line-height:1.8;white-space:pre-wrap}.back{padding:9px 13px;border:0;border-radius:9px;margin-bottom:12px}footer{background:#111827;color:#cbd5e1;text-align:center;padding:24px 14px;font-size:13px}
-</style></head><body><header><div class="wrap"><div class="brand">SACH AAPKE DESH NEWS</div><div class="tag">सच की आवाज़, आपके साथ</div><nav id="cats"></nav></div></header><main class="wrap" id="app"><div class="notice">समाचार लोड हो रहे हैं…</div></main><footer>© Sach Aapke Desh News · New Delhi, India</footer>
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Sach Aapke Desh News | सच की आवाज़, आपके साथ</title>
+
+<meta name="description" content="Sach Aapke Desh News — देश, दुनिया, उत्तर प्रदेश, राजनीति, व्यापार, खेल, टेक्नोलॉजी और मनोरंजन की खबरें।">
+<meta name="theme-color" content="#b91c1c">
+
+<style>
+*{box-sizing:border-box}
+
+:root{
+ --red:#b91c1c;
+ --red-dark:#7f1d1d;
+ --red-light:#fef2f2;
+ --black:#111827;
+ --gray:#64748b;
+ --light:#f8fafc;
+ --border:#e5e7eb;
+ --white:#fff;
+}
+
+html{scroll-behavior:smooth}
+
+body{
+ margin:0;
+ font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+ background:#f3f4f6;
+ color:var(--black);
+}
+
+button,input{font:inherit}
+button{cursor:pointer}
+
+.container{
+ width:min(1180px,calc(100% - 28px));
+ margin:auto;
+}
+
+/* TOP HEADER */
+
+.top-header{
+ background:var(--white);
+ border-bottom:1px solid var(--border);
+}
+
+.top-line{
+ height:36px;
+ display:flex;
+ align-items:center;
+ justify-content:space-between;
+ font-size:12px;
+ color:var(--gray);
+}
+
+.top-links{
+ display:flex;
+ gap:16px;
+}
+
+.brand-row{
+ display:flex;
+ align-items:center;
+ justify-content:space-between;
+ gap:20px;
+ padding:18px 0;
+}
+
+.brand{
+ display:flex;
+ align-items:center;
+ gap:13px;
+}
+
+.logo{
+ width:62px;
+ height:62px;
+ object-fit:contain;
+ border-radius:12px;
+}
+
+.brand-title{
+ font-size:27px;
+ font-weight:950;
+ letter-spacing:-.5px;
+ color:var(--red-dark);
+}
+
+.brand-tag{
+ font-size:13px;
+ color:var(--gray);
+ margin-top:3px;
+}
+
+.header-actions{
+ display:flex;
+ gap:8px;
+}
+
+.action-btn{
+ border:1px solid var(--border);
+ background:#fff;
+ color:var(--black);
+ border-radius:10px;
+ padding:9px 12px;
+}
+
+.action-btn:hover{
+ background:var(--red-light);
+ color:var(--red);
+}
+
+/* NAVIGATION */
+
+.main-nav{
+ background:var(--red-dark);
+ color:#fff;
+}
+
+.nav-scroll{
+ display:flex;
+ gap:0;
+ overflow-x:auto;
+ scrollbar-width:none;
+}
+
+.nav-scroll::-webkit-scrollbar{display:none}
+
+.nav-btn{
+ border:0;
+ background:transparent;
+ color:#fff;
+ padding:13px 14px;
+ white-space:nowrap;
+ font-weight:700;
+ font-size:14px;
+}
+
+.nav-btn:hover,
+.nav-btn.active{
+ background:var(--red);
+}
+
+/* BREAKING */
+
+.breaking{
+ background:#111827;
+ color:white;
+}
+
+.breaking-row{
+ display:flex;
+ align-items:center;
+ min-height:42px;
+}
+
+.breaking-label{
+ background:#dc2626;
+ padding:6px 11px;
+ font-size:12px;
+ font-weight:900;
+ white-space:nowrap;
+}
+
+.ticker{
+ padding-left:13px;
+ overflow:hidden;
+ white-space:nowrap;
+ text-overflow:ellipsis;
+ font-size:14px;
+}
+
+/* MAIN */
+
+main{
+ padding:24px 0 50px;
+}
+
+/* SEARCH */
+
+.search-area{
+ display:none;
+ margin-bottom:18px;
+}
+
+.search-area.open{
+ display:flex;
+}
+
+.search-area input{
+ flex:1;
+ border:1px solid var(--border);
+ background:#fff;
+ border-radius:10px 0 0 10px;
+ padding:12px 14px;
+ outline:none;
+}
+
+.search-area button{
+ border:0;
+ background:var(--red);
+ color:#fff;
+ padding:0 18px;
+ border-radius:0 10px 10px 0;
+ font-weight:800;
+}
+
+/* HERO */
+
+.hero{
+ display:grid;
+ grid-template-columns:1.45fr 1fr;
+ background:#fff;
+ border-radius:16px;
+ overflow:hidden;
+ box-shadow:0 4px 18px #00000012;
+ margin-bottom:26px;
+}
+
+.hero-image{
+ width:100%;
+ height:100%;
+ min-height:370px;
+ object-fit:cover;
+ background:linear-gradient(135deg,#991b1b,#475569);
+}
+
+.hero-content{
+ padding:30px;
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+}
+
+.label{
+ display:inline-flex;
+ align-items:center;
+ width:max-content;
+ background:var(--red-light);
+ color:var(--red);
+ border-left:4px solid var(--red);
+ padding:5px 9px;
+ font-size:12px;
+ font-weight:900;
+}
+
+.hero h1{
+ font-size:clamp(30px,4vw,48px);
+ line-height:1.08;
+ margin:14px 0 10px;
+ letter-spacing:-1px;
+}
+
+.meta{
+ color:var(--gray);
+ font-size:12px;
+}
+
+.summary{
+ color:#475569;
+ line-height:1.7;
+ font-size:15px;
+}
+
+/* SECTION */
+
+.section{
+ margin:30px 0;
+}
+
+.section-heading{
+ display:flex;
+ align-items:center;
+ justify-content:space-between;
+ border-bottom:2px solid #111827;
+ margin-bottom:15px;
+}
+
+.section-heading h2{
+ margin:0;
+ padding:0 0 8px;
+ font-size:22px;
+}
+
+.section-heading h2:before{
+ content:"";
+ display:inline-block;
+ width:5px;
+ height:21px;
+ background:var(--red);
+ margin-right:8px;
+ vertical-align:-3px;
+}
+
+.more{
+ color:var(--red);
+ font-size:13px;
+ font-weight:800;
+ cursor:pointer;
+}
+
+/* CARDS */
+
+.news-grid{
+ display:grid;
+ grid-template-columns:repeat(3,1fr);
+ gap:16px;
+}
+
+.card{
+ background:#fff;
+ border-radius:13px;
+ overflow:hidden;
+ border:1px solid #e5e7eb;
+ transition:.2s;
+}
+
+.card:hover{
+ transform:translateY(-3px);
+ box-shadow:0 10px 25px #00000012;
+}
+
+.card-image{
+ width:100%;
+ height:185px;
+ object-fit:cover;
+ display:block;
+ background:#e5e7eb;
+}
+
+.card-content{
+ padding:15px;
+}
+
+.category{
+ color:var(--red);
+ font-size:11px;
+ font-weight:900;
+ text-transform:uppercase;
+}
+
+.card h3{
+ font-size:18px;
+ line-height:1.3;
+ margin:7px 0;
+}
+
+.card p{
+ color:#64748b;
+ font-size:14px;
+ line-height:1.55;
+ margin:0;
+}
+
+.card-footer{
+ display:flex;
+ justify-content:space-between;
+ align-items:center;
+ margin-top:12px;
+ padding-top:10px;
+ border-top:1px solid #f1f5f9;
+}
+
+.read{
+ color:var(--red);
+ font-size:13px;
+ font-weight:900;
+}
+
+/* TWO COLUMN */
+
+.content-layout{
+ display:grid;
+ grid-template-columns:2fr 1fr;
+ gap:22px;
+}
+
+/* LATEST */
+
+.sidebar-box{
+ background:#fff;
+ border:1px solid var(--border);
+ border-radius:14px;
+ padding:17px;
+ margin-bottom:18px;
+}
+
+.sidebar-title{
+ font-size:20px;
+ font-weight:900;
+ margin:0 0 14px;
+ padding-bottom:10px;
+ border-bottom:2px solid var(--red);
+}
+
+.latest{
+ display:flex;
+ flex-direction:column;
+}
+
+.latest-item{
+ display:flex;
+ gap:11px;
+ padding:12px 0;
+ border-bottom:1px solid var(--border);
+ cursor:pointer;
+}
+
+.latest-item:last-child{
+ border-bottom:0;
+}
+
+.number{
+ min-width:29px;
+ height:29px;
+ border-radius:50%;
+ background:var(--red-light);
+ color:var(--red);
+ display:grid;
+ place-items:center;
+ font-weight:900;
+}
+
+.latest-title{
+ font-size:14px;
+ font-weight:750;
+ line-height:1.4;
+}
+
+.latest-meta{
+ color:var(--gray);
+ font-size:11px;
+ margin-top:3px;
+}
+
+/* TRENDING */
+
+.trending-item{
+ display:flex;
+ gap:10px;
+ margin-bottom:14px;
+ cursor:pointer;
+}
+
+.trending-rank{
+ color:var(--red);
+ font-size:23px;
+ font-weight:950;
+ line-height:1;
+}
+
+.trending-text{
+ font-size:14px;
+ font-weight:700;
+ line-height:1.4;
+}
+
+/* ARTICLE */
+
+.article{
+ background:#fff;
+ border-radius:16px;
+ padding:25px;
+ border:1px solid var(--border);
+}
+
+.article h1{
+ font-size:clamp(29px,5vw,46px);
+ line-height:1.12;
+ margin:12px 0;
+}
+
+.article-image{
+ width:100%;
+ max-height:560px;
+ object-fit:cover;
+ border-radius:12px;
+ margin:18px 0;
+}
+
+.article-summary{
+ font-size:18px;
+ line-height:1.7;
+ font-weight:650;
+ color:#334155;
+}
+
+.article-body{
+ font-size:18px;
+ line-height:1.9;
+ white-space:pre-wrap;
+}
+
+.back{
+ border:0;
+ background:#f1f5f9;
+ border-radius:8px;
+ padding:9px 13px;
+ font-weight:700;
+}
+
+.source-box{
+ margin-top:25px;
+ padding:15px;
+ border-left:4px solid var(--red);
+ background:var(--red-light);
+}
+
+/* INFO */
+
+.info-grid{
+ display:grid;
+ grid-template-columns:repeat(3,1fr);
+ gap:15px;
+}
+
+.info-card{
+ background:#fff;
+ border:1px solid var(--border);
+ border-radius:13px;
+ padding:18px;
+}
+
+.info-card h3{
+ margin-top:0;
+}
+
+/* FOOTER */
+
+footer{
+ background:#111827;
+ color:#cbd5e1;
+ margin-top:30px;
+}
+
+.footer-main{
+ padding:35px 0;
+ display:grid;
+ grid-template-columns:2fr 1fr 1fr;
+ gap:30px;
+}
+
+.footer-main h3{
+ color:#fff;
+ margin-top:0;
+}
+
+.footer-main p{
+ line-height:1.7;
+ font-size:14px;
+}
+
+.footer-links{
+ display:flex;
+ flex-direction:column;
+ gap:8px;
+}
+
+.footer-links button{
+ text-align:left;
+ border:0;
+ background:transparent;
+ color:#cbd5e1;
+ padding:0;
+}
+
+.footer-bottom{
+ border-top:1px solid #334155;
+ padding:17px 0;
+ text-align:center;
+ font-size:12px;
+}
+
+/* MOBILE */
+
+@media(max-width:900px){
+ .hero{
+  grid-template-columns:1fr;
+ }
+ .hero-image{
+  height:280px;
+  min-height:0;
+ }
+ .content-layout{
+  grid-template-columns:1fr;
+ }
+ .news-grid{
+  grid-template-columns:repeat(2,1fr);
+ }
+}
+
+@media(max-width:600px){
+ .container{
+  width:calc(100% - 18px);
+ }
+
+ .top-links{
+  display:none;
+ }
+
+ .top-line{
+  justify-content:center;
+ }
+
+ .brand-row{
+  padding:13px 0;
+ }
+
+ .logo{
+  width:48px;
+  height:48px;
+ }
+
+ .brand-title{
+  font-size:18px;
+ }
+
+ .brand-tag{
+  font-size:10px;
+ }
+
+ .header-actions .action-btn{
+  padding:8px 9px;
+ }
+
+ .nav-btn{
+  padding:11px 12px;
+  font-size:13px;
+ }
+
+ main{
+  padding-top:16px;
+ }
+
+ .hero-image{
+  height:220px;
+ }
+
+ .hero-content{
+  padding:19px;
+ }
+
+ .hero h1{
+  font-size:29px;
+ }
+
+ .news-grid{
+  grid-template-columns:1fr;
+ }
+
+ .card-image{
+  height:210px;
+ }
+
+ .section-heading h2{
+  font-size:20px;
+ }
+
+ .article{
+  padding:17px;
+ }
+
+ .article-body{
+  font-size:17px;
+ }
+
+ .footer-main{
+  grid-template-columns:1fr;
+ }
+}
+
+/* DARK MODE */
+
+body.dark{
+ background:#0f172a;
+ color:#e5e7eb;
+}
+
+body.dark .top-header,
+body.dark .hero,
+body.dark .card,
+body.dark .sidebar-box,
+body.dark .article,
+body.dark .info-card,
+body.dark .search-area input{
+ background:#1e293b;
+ color:#e5e7eb;
+ border-color:#334155;
+}
+
+body.dark .brand-title{
+ color:#fecaca;
+}
+
+body.dark .summary,
+body.dark .card p,
+body.dark .article-summary{
+ color:#cbd5e1;
+}
+
+body.dark .section-heading{
+ border-color:#cbd5e1;
+}
+
+body.dark .latest-item{
+ border-color:#334155;
+}
+
+body.dark .search-area button{
+ background:#dc2626;
+}
+</style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+
+<header class="top-header">
+
+ <div class="container">
+
+  <div class="top-line">
+   <span id="today"></span>
+
+   <div class="top-links">
+    <span>विश्वसनीय समाचार</span>
+    <span>संपादकीय नीति</span>
+    <span>फैक्ट-चेक</span>
+   </div>
+  </div>
+
+  <div class="brand-row">
+
+   <div class="brand">
+
+    <img
+      class="logo"
+      src="file_0000000050f481fa855df23d345e2763.png"
+      alt="Sach Aapke Desh News">
+
+    <div>
+     <div class="brand-title">SACH AAPKE DESH NEWS</div>
+     <div class="brand-tag">सच की आवाज़, आपके साथ</div>
+    </div>
+
+   </div>
+
+   <div class="header-actions">
+    <button class="action-btn" onclick="toggleSearch()">🔎</button>
+    <button class="action-btn" onclick="toggleDark()">🌙</button>
+   </div>
+
+  </div>
+
+ </div>
+
+ <nav class="main-nav">
+  <div class="container nav-scroll" id="navigation"></div>
+ </nav>
+
+</header>
+
+<!-- BREAKING NEWS -->
+
+<div class="breaking">
+
+ <div class="container breaking-row">
+
+  <div class="breaking-label">BREAKING NEWS</div>
+
+  <div class="ticker" id="ticker">
+   ताज़ा खबरें पढ़ने के लिए Sach Aapke Desh News के साथ बने रहें।
+  </div>
+
+ </div>
+
+</div>
+
+<!-- MAIN -->
+
+<main class="container">
+
+ <div class="search-area" id="searchArea">
+  <input
+   id="searchInput"
+   type="search"
+   placeholder="खबर खोजें...">
+  <button onclick="searchNews()">खोजें</button>
+ </div>
+
+ <div id="app"></div>
+
+</main>
+
+<!-- FOOTER -->
+
+<footer>
+
+ <div class="container footer-main">
+
+  <div>
+   <h3>Sach Aapke Desh News</h3>
+
+   <p>
+    Sach Aapke Desh News एक स्वतंत्र डिजिटल न्यूज़
+    प्लेटफ़ॉर्म है जिसका उद्देश्य पाठकों तक स्पष्ट,
+    जिम्मेदार और सत्यापित समाचार पहुँचाना है।
+   </p>
+
+   <p>
+    हमारा सिद्धांत: पहले तथ्य, फिर खबर।
+   </p>
+  </div>
+
+  <div>
+   <h3>न्यूज़ सेक्शन</h3>
+
+   <div class="footer-links">
+    <button onclick="showCategory('देश')">देश</button>
+    <button onclick="showCategory('उत्तर प्रदेश')">उत्तर प्रदेश</button>
+    <button onclick="showCategory('राजनीति')">राजनीति</button>
+    <button onclick="showCategory('दुनिया')">दुनिया</button>
+    <button onclick="showCategory('खेल')">खेल</button>
+   </div>
+  </div>
+
+  <div>
+   <h3>महत्वपूर्ण</h3>
+
+   <div class="footer-links">
+    <button onclick="showInfo('about')">हमारे बारे में</button>
+    <button onclick="showInfo('policy')">संपादकीय नीति</button>
+    <button onclick="showInfo('fact')">फैक्ट-चेक</button>
+    <button onclick="showInfo('contact')">संपर्क करें</button>
+   </div>
+  </div>
+
+ </div>
+
+ <div class="footer-bottom">
+
+  <div class="container">
+   © <span id="year"></span> Sach Aapke Desh News
+   · New Delhi, India
+   · All Rights Reserved
+  </div>
+
+ </div>
+
+</footer>
+
 <script>
-let all=[],active="";
-const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
-const image=u=>u?'<img src="'+esc(u)+'" loading="lazy" alt="">':"";
-function card(x){return '<div class="card">'+image(x.image_url)+'<div class="cardbody"><div class="kicker">'+esc(x.category_name||"समाचार")+'</div><h2>'+esc(x.title)+'</h2><p>'+esc(x.summary||"")+'</p><div class="read" onclick="openArticle(''+x.id+'')">पूरी खबर →</div></div></div>'}
-function home(cat=""){active=cat;let a=all.filter(x=>!cat||x.category_name===cat);if(!a.length){app.innerHTML='<div class="hero notice">अभी प्रकाशित समाचार उपलब्ध नहीं हैं।</div>';return}let f=a[0];app.innerHTML='<section class="hero">'+image(f.image_url)+'<div class="kicker">'+esc(f.category_name||"समाचार")+'</div><h1>'+esc(f.title)+'</h1><div class="meta">'+new Date(f.published_at||f.created_at).toLocaleDateString("hi-IN")+' · '+esc(f.source||"")+'</div><p class="summary">'+esc(f.summary||"")+'</p><div class="read" onclick="openArticle(''+f.id+'')">पूरी खबर पढ़ें →</div></section><section class="grid">'+a.slice(1).map(card).join("")+'</section>'}
-function openArticle(id){let x=all.find(a=>a.id===id);if(!x)return;app.innerHTML='<article><button class="back" onclick="home(active)">← वापस</button>'+image(x.image_url)+'<div class="kicker">'+esc(x.category_name||"समाचार")+'</div><h1>'+esc(x.title)+'</h1><div class="meta">'+new Date(x.published_at||x.created_at).toLocaleString("hi-IN")+' · '+esc(x.source||"")+'</div><p class="summary">'+esc(x.summary||"")+'</p><div class="body">'+esc(x.body||x.content||"")+'</div>'+(x.source_url?'<p><b>स्रोत:</b> <a href="'+esc(x.source_url)+'" target="_blank" rel="noopener">मूल स्रोत</a></p>':"")+(x.photo_credit?'<p class="meta">Photo credit: '+esc(x.photo_credit)+'</p>':"")+'</article>';scrollTo(0,0)}
-async function load(){try{let r=await fetch("/api/articles");if(!r.ok)throw 0;all=await r.json();let n=[...new Set(all.map(x=>x.category_name).filter(Boolean))];cats.innerHTML='<button onclick="home()">सभी</button>'+n.map(x=>'<button onclick="home(''+x.replaceAll("'","\'")+'')">'+esc(x)+'</button>').join("");home()}catch(e){app.innerHTML='<div class="hero notice">समाचार लोड नहीं हो सके। कृपया बाद में फिर प्रयास करें।</div>'}}load();
-</script></body></html>
+
+/*
+=========================================================
+SACH AAPKE DESH NEWS
+STATIC NEWS DATA
+
+ये demo/sample articles हैं।
+इनको verified real news से replace करना होगा।
+=========================================================
+*/
+
+const NEWS=[
+
+{
+ id:1,
+ category:"देश",
+ title:"देश की प्रमुख खबरों और महत्वपूर्ण घटनाक्रम पर हमारी विशेष नजर",
+ summary:"राष्ट्रीय स्तर की महत्वपूर्ण घटनाओं, फैसलों और जनहित से जुड़े मुद्दों की जानकारी।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"यह demo content है। वास्तविक समाचार प्रकाशित करते समय तथ्य, तारीख, स्थान और संबंधित आधिकारिक स्रोत को सत्यापित करें।"
+},
+
+{
+ id:2,
+ category:"उत्तर प्रदेश",
+ title:"उत्तर प्रदेश की बड़ी खबरों पर Sach Aapke Desh News की नजर",
+ summary:"प्रदेश के जिलों, प्रशासन, विकास, शिक्षा और जनहित से जुड़े प्रमुख अपडेट।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"उत्तर प्रदेश से संबंधित वास्तविक खबर में संबंधित विभाग, प्रशासन या आधिकारिक दस्तावेज का स्रोत शामिल किया जाना चाहिए।"
+},
+
+{
+ id:3,
+ category:"राजनीति",
+ title:"राजनीतिक घटनाक्रम और नीतिगत फैसलों की प्रमुख जानकारी",
+ summary:"संसद, सरकार, राजनीतिक दलों और नीतियों से जुड़े महत्वपूर्ण घटनाक्रम।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"राजनीतिक समाचार प्रकाशित करने से पहले आधिकारिक बयान और प्राथमिक स्रोतों से जानकारी सत्यापित करें।"
+},
+
+{
+ id:4,
+ category:"दुनिया",
+ title:"दुनिया की प्रमुख घटनाओं पर भारत की नजर",
+ summary:"अंतरराष्ट्रीय घटनाओं और भारत से जुड़े महत्वपूर्ण वैश्विक घटनाक्रम।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"अंतरराष्ट्रीय खबरों के लिए विश्वसनीय अंतरराष्ट्रीय संस्थानों और प्राथमिक स्रोतों से तथ्य जांचना आवश्यक है।"
+},
+
+{
+ id:5,
+ category:"व्यापार",
+ title:"कारोबार और बाजार से जुड़े महत्वपूर्ण अपडेट",
+ summary:"कंपनियों, कारोबार, उद्योग और बाजार से संबंधित महत्वपूर्ण खबरें।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"वित्तीय समाचार प्रकाशित करते समय आंकड़ों और संबंधित कंपनी या नियामक के आधिकारिक स्रोत को प्राथमिकता दें।"
+},
+
+{
+ id:6,
+ category:"खेल",
+ title:"खेल जगत के बड़े मुकाबलों और घटनाक्रम पर नजर",
+ summary:"क्रिकेट, फुटबॉल और अन्य खेलों की प्रमुख खबरें और अपडेट।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"खेल समाचार के लिए संबंधित खेल संस्था, प्रतियोगिता या टीम के आधिकारिक स्रोतों से परिणाम सत्यापित करें।"
+},
+
+{
+ id:7,
+ category:"टेक्नोलॉजी",
+ title:"AI और टेक्नोलॉजी की दुनिया में हो रहे महत्वपूर्ण बदलाव",
+ summary:"Artificial Intelligence, मोबाइल, इंटरनेट और डिजिटल टेक्नोलॉजी से जुड़ी खबरें।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"Technology news में कंपनी की official announcement और विश्वसनीय technical documentation को प्राथमिकता दें।"
+},
+
+{
+ id:8,
+ category:"शिक्षा",
+ title:"शिक्षा और परीक्षाओं से जुड़े महत्वपूर्ण अपडेट",
+ summary:"बोर्ड, विश्वविद्यालय, प्रवेश परीक्षा और शिक्षा जगत की महत्वपूर्ण जानकारी।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"परीक्षा और admission से जुड़ी जानकारी हमेशा संबंधित बोर्ड, विश्वविद्यालय या संस्था की official notification से verify करें।"
+},
+
+{
+ id:9,
+ category:"मनोरंजन",
+ title:"फिल्म और मनोरंजन जगत की प्रमुख खबरें",
+ summary:"फिल्मों, वेब सीरीज, टीवी और मनोरंजन जगत से जुड़े प्रमुख अपडेट।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"Entertainment news के लिए official announcements, interviews और verified sources का उपयोग करें।"
+},
+
+{
+ id:10,
+ category:"करियर",
+ title:"नौकरी और करियर से जुड़ी उपयोगी जानकारी",
+ summary:"सरकारी नौकरी, private jobs, skill development और career opportunities से जुड़े अपडेट।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"Recruitment information में संबंधित संस्था की official notification का link देना आवश्यक है।"
+},
+
+{
+ id:11,
+ category:"जीवनशैली",
+ title:"जीवनशैली, समाज और रोजमर्रा की उपयोगी खबरें",
+ summary:"Lifestyle, समाज, यात्रा और रोजमर्रा के जीवन से जुड़े महत्वपूर्ण विषय।",
+ date:"आज",
+ source:"Sach Aapke Desh News",
+ body:"Lifestyle content में स्वास्थ्य या अन्य संवेदनशील विषयों के लिए विशेषज्ञ और विश्वसनीय स्रोतों का उपयोग करें।"
+}
+
+];
+
+
+/* CATEGORIES */
+
+const CATEGORIES=[
+ "होम",
+ "देश",
+ "उत्तर प्रदेश",
+ "राजनीति",
+ "स्थानीय",
+ "दुनिया",
+ "व्यापार",
+ "अर्थव्यवस्था",
+ "खेल",
+ "टेक्नोलॉजी",
+ "शिक्षा",
+ "मनोरंजन",
+ "करियर",
+ "जीवनशैली"
+];
+
+let activeCategory="होम";
+
+
+/* UTILITIES */
+
+function esc(value){
+
+ return String(value??"")
+  .replace(/&/g,"&amp;")
+  .replace(/</g,"&lt;")
+  .replace(/>/g,"&gt;")
+  .replace(/"/g,"&quot;")
+  .replace(/'/g,"&#039;");
+
+}
+
+
+function placeholder(title){
+
+ const t=encodeURIComponent(title.slice(0,30));
+
+ return "data:image/svg+xml;charset=UTF-8,"+
+ `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+ <defs>
+ <linearGradient id="g" x1="0" x2="1">
+ <stop stop-color="#7f1d1d"/>
+ <stop offset="1" stop-color="#334155"/>
+ </linearGradient>
+ </defs>
+ <rect width="100%" height="100%" fill="url(#g)"/>
+ <text x="50%" y="45%" text-anchor="middle"
+ fill="white" font-size="34" font-family="Arial"
+ font-weight="bold">${t}</text>
+ <text x="50%" y="55%" text-anchor="middle"
+ fill="#fecaca" font-size="19"
+ font-family="Arial">SACH AAPKE DESH NEWS</text>
+ </svg>`;
+
+}
+
+
+function newsImage(x){
+
+ return x.image || placeholder(x.title);
+
+}
+
+
+/* NAVIGATION */
+
+function renderNavigation(){
+
+ const nav=document.getElementById("navigation");
+
+ nav.innerHTML=CATEGORIES.map(category=>{
+
+  const active=activeCategory===category?"active":"";
+
+  return `
+   <button
+    class="nav-btn ${active}"
+    onclick="showCategory('${esc(category)}')">
+    ${esc(category)}
+   </button>
+  `;
+
+ }).join("");
+
+}
+
+
+/* CARD */
+
+function createCard(x){
+
+ return `
+ <article class="card"
+          onclick="openArticle(${x.id})">
+
+  <img
+   class="card-image"
+   src="${newsImage(x)}"
+   alt="${esc(x.title)}"
+   loading="lazy">
+
+  <div class="card-content">
+
+   <div class="category">
+    ${esc(x.category)}
+   </div>
+
+   <h3>${esc(x.title)}</h3>
+
+   <p>${esc(x.summary)}</p>
+
+   <div class="card-footer">
+
+    <span class="meta">
+     ${esc(x.date)}
+    </span>
+
+    <span class="read">
+     पढ़ें →
+    </span>
+
+   </div>
+
+  </div>
+
+ </article>
+ `;
+
+}
+
+
+/* HERO */
+
+function createHero(x){
+
+ return `
+ <article class="hero"
+          onclick="openArticle(${x.id})">
+
+  <img
+   class="hero-image"
+   src="${newsImage(x)}"
+   alt="${esc(x.title)}">
+
+  <div class="hero-content">
+
+   <div class="label">
+    ${esc(x.category)} · मुख्य खबर
+   </div>
+
+   <h1>${esc(x.title)}</h1>
+
+   <div class="meta">
+    ${esc(x.date)} · ${esc(x.source)}
+   </div>
+
+   <p class="summary">
+    ${esc(x.summary)}
+   </p>
+
+   <div class="read">
+    पूरी खबर पढ़ें →
+   </div>
+
+  </div>
+
+ </article>
+ `;
+
+}
+
+
+/* SECTION */
+
+function createSection(title,items){
+
+ if(!items.length)return "";
+
+ return `
+ <section class="section">
+
+  <div class="section-heading">
+
+   <h2>${esc(title)}</h2>
+
+   <span class="more"
+         onclick="showCategory('${esc(title)}')">
+    और खबरें →
+   </span>
+
+  </div>
+
+  <div class="news-grid">
+
+   ${items.slice(0,3).map(createCard).join("")}
+
+  </div>
+
+ </section>
+ `;
+
+}
+
+
+/* LATEST */
+
+function latestNews(){
+
+ return NEWS.slice(0,8).map((x,i)=>`
+
+  <div class="latest-item"
+       onclick="openArticle(${x.id})">
+
+   <div class="number">${i+1}</div>
+
+   <div>
+
+    <div class="latest-title">
+     ${esc(x.title)}
+    </div>
+
+    <div class="latest-meta">
+     ${esc(x.category)} · ${esc(x.date)}
+    </div>
+
+   </div>
+
+  </div>
+
+ `).join("");
+
+}
+
+
+/* TRENDING */
+
+function trendingNews(){
+
+ return NEWS.slice(0,6).map((x,i)=>`
+
+  <div class="trending-item"
+       onclick="openArticle(${x.id})">
+
+   <div class="trending-rank">
+    ${i+1}
+   </div>
+
+   <div class="trending-text">
+    ${esc(x.title)}
+   </div>
+
+  </div>
+
+ `).join("");
+
+}
+
+
+/* HOME */
+
+function renderHome(){
+
+ activeCategory="होम";
+ renderNavigation();
+
+ const sections=[
+  ["देश",NEWS.filter(x=>x.category==="देश")],
+  ["उत्तर प्रदेश",NEWS.filter(x=>x.category==="उत्तर प्रदेश")],
+  ["राजनीति",NEWS.filter(x=>x.category==="राजनीति")],
+  ["दुनिया",NEWS.filter(x=>x.category==="दुनिया")],
+  ["व्यापार",NEWS.filter(x=>x.category==="व्यापार")],
+  ["खेल",NEWS.filter(x=>x.category==="खेल")],
+  ["टेक्नोलॉजी",NEWS.filter(x=>x.category==="टेक्नोलॉजी")],
+  ["शिक्षा",NEWS.filter(x=>x.category==="शिक्षा")],
+  ["मनोरंजन",NEWS.filter(x=>x.category==="मनोरंजन")]
+ ];
+
+ document.getElementById("app").innerHTML=
+
+  createHero(NEWS[0])
+
+  +
+
+  `<div class="content-layout">
+
+   <div>
+
+    ${sections
+      .map(s=>createSection(s[0],s[1]))
+      .join("")}
+
+   </div>
+
+   <aside>
+
+    <div class="sidebar-box">
+
+     <h2 class="sidebar-title">
+      ताज़ा खबरें
+     </h2>
+
+     <div class="latest">
+      ${latestNews()}
+     </div>
+
+    </div>
+
+    <div class="sidebar-box">
+
+     <h2 class="sidebar-title">
+      ट्रेंडिंग
+     </h2>
+
+     ${trendingNews()}
+
+    </div>
+
+   </aside>
+
+  </div>`;
+
+ window.scrollTo({top:0,behavior:"smooth"});
+
+}
+
+
+/* CATEGORY */
+
+function showCategory(category){
+
+ if(category==="होम"){
+  renderHome();
+  return;
+ }
+
+ activeCategory=category;
+ renderNavigation();
+
+ const items=NEWS.filter(x=>x.category===category);
+
+ document.getElementById("app").innerHTML=
+
+ `<section class="section">
+
+   <div class="section-heading">
+
+    <h2>${esc(category)}</h2>
+
+    <span class="more"
+          onclick="renderHome()">
+     ← होम
+    </span>
+
+   </div>
+
+   ${
+    items.length
+    ?
+    `<div class="news-grid">
+      ${items.map(createCard).join("")}
+     </div>`
+    :
+    `<div class="sidebar-box"
+          style="text-align:center;padding:45px">
+      इस सेक्शन में अभी खबर उपलब्ध नहीं है।
+     </div>`
+   }
+
+  </section>`;
+
+ window.scrollTo({top:0,behavior:"smooth"});
+
+}
+
+
+/* ARTICLE */
+
+function openArticle(id){
+
+ const x=NEWS.find(n=>n.id===id);
+
+ if(!x)return;
+
+ document.getElementById("app").innerHTML=
+
+ `<article class="article">
+
+   <button
+    class="back"
+    onclick="goBack()">
+    ← वापस
+   </button>
+
+   <br><br>
+
+   <div class="label">
+    ${esc(x.category)}
+   </div>
+
+   <h1>${esc(x.title)}</h1>
+
+   <div class="meta">
+    ${esc(x.date)} · ${esc(x.source)}
+   </div>
+
+   <img
+    class="article-image"
+    src="${newsImage(x)}"
+    alt="${esc(x.title)}">
+
+   <div class="article-summary">
+    ${esc(x.summary)}
+   </div>
+
+   <br>
+
+   <div class="article-body">
+    ${esc(x.body)}
+   </div>
+
+   <div class="source-box">
+
+    <strong>संपादकीय जानकारी</strong>
+
+    <p>
+     प्रकाशित सामग्री में तथ्य और स्रोत की
+     पुष्टि को प्राथमिकता दी जानी चाहिए।
+     किसी भी महत्वपूर्ण दावे को प्रकाशित करने
+     से पहले संबंधित आधिकारिक या प्राथमिक
+     स्रोत से सत्यापित करें।
+    </p>
+
+   </div>
+
+ </article>`;
+
+ window.scrollTo({top:0,behavior:"smooth"});
+
+}
+
+
+function goBack(){
+
+ if(activeCategory==="होम"){
+  renderHome();
+ }else{
+  showCategory(activeCategory);
+ }
+
+}
+
+
+/* SEARCH */
+
+function toggleSearch(){
+
+ const box=document.getElementById("searchArea");
+
+ box.classList.toggle("open");
+
+ if(box.classList.contains("open")){
+  document.getElementById("searchInput").focus();
+ }
+
+}
+
+
+function searchNews(){
+
+ const query=document
+  .getElementById("searchInput")
+  .value
+  .trim()
+  .toLowerCase();
+
+ if(!query){
+  renderHome();
+  return;
+ }
+
+ const results=NEWS.filter(x=>
+
+  `${x.title} ${x.summary} ${x.category} ${x.body}`
+   .toLowerCase()
+   .includes(query)
+
+ );
+
+ document.getElementById("app").innerHTML=
+
+ `<section class="section">
+
+  <div class="section-heading">
+
+   <h2>खोज परिणाम</h2>
+
+   <span class="more"
+         onclick="renderHome()">
+    ← वापस
+   </span>
+
+  </div>
+
+  <p class="meta">
+   "${esc(query)}" के लिए ${results.length} खबर मिलीं।
+  </p>
+
+  ${
+   results.length
+   ?
+   `<div class="news-grid">
+     ${results.map(createCard).join("")}
+    </div>`
+   :
+   `<div class="sidebar-box"
+         style="text-align:center;padding:45px">
+      कोई खबर नहीं मिली।
+    </div>`
+  }
+
+ </section>`;
+
+ window.scrollTo({top:0,behavior:"smooth"});
+
+}
+
+
+document
+ .getElementById("searchInput")
+ .addEventListener("keydown",function(e){
+
+  if(e.key==="Enter"){
+   searchNews();
+  }
+
+ });
+
+
+/* DARK MODE */
+
+function toggleDark(){
+
+ document.body.classList.toggle("dark");
+
+ localStorage.setItem(
+  "sadn-dark",
+  document.body.classList.contains("dark")
+ );
+
+}
+
+
+/* INFORMATION */
+
+function showInfo(type){
+
+ let title="";
+ let text="";
+
+ if(type==="about"){
+  title="हमारे बारे में";
+  text="Sach Aapke Desh News एक स्वतंत्र डिजिटल न्यूज़ प्लेटफ़ॉर्म के रूप में सत्यापित, स्पष्ट और जिम्मेदार समाचार प्रकाशित करने के उद्देश्य से बनाया गया है।";
+ }
+
+ if(type==="policy"){
+  title="संपादकीय नीति";
+  text="हमारा प्रयास है कि प्रकाशित समाचारों में तथ्य, संदर्भ और स्रोत को प्राथमिकता दी जाए। अपुष्ट जानकारी को तथ्य के रूप में प्रकाशित नहीं किया जाना चाहिए।";
+ }
+
+ if(type==="fact"){
+  title="फैक्ट-चेक";
+  text="महत्वपूर्ण दावों को प्रकाशित करने से पहले आधिकारिक दस्तावेज, संबंधित संस्था के बयान और विश्वसनीय प्राथमिक स्रोतों से सत्यापित किया जाना चाहिए।";
+ }
+
+ if(type==="contact"){
+  title="संपर्क करें";
+  text="संपर्क के लिए आगे चलकर आपकी आधिकारिक editorial/contact email यहाँ जोड़ी जा सकती है।";
+ }
+
+ document.getElementById("app").innerHTML=
+
+ `<div class="info-grid">
+
+  <div class="info-card">
+
+   <h2>${esc(title)}</h2>
+
+   <p style="line-height:1.8">
+    ${esc(text)}
+   </p>
+
+  </div>
+
+ </div>`;
+
+ window.scrollTo({top:0,behavior:"smooth"});
+
+}
+
+
+/* TICKER */
+
+function startTicker(){
+
+ let i=0;
+
+ setInterval(()=>{
+
+  document.getElementById("ticker").textContent=
+   NEWS[i%NEWS.length].title;
+
+  i++;
+
+ },3500);
+
+}
+
+
+/* DATE */
+
+function setDate(){
+
+ const now=new Date();
+
+ document.getElementById("today")
+  .textContent=
+  now.toLocaleDateString("hi-IN",{
+   weekday:"long",
+   year:"numeric",
+   month:"long",
+   day:"numeric"
+  });
+
+ document.getElementById("year")
+  .textContent=now.getFullYear();
+
+}
+
+
+/* START */
+
+setDate();
+
+if(localStorage.getItem("sadn-dark")==="true"){
+ document.body.classList.add("dark");
+}
+
+renderNavigation();
+renderHome();
+startTicker();
+
+</script>
+
+</body>
+</html>
