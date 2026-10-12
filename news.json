@@ -1,18 +1,11 @@
 {
-  "updated_at": "2026-10-11T02:43:41.210671+00:00",
+  "updated_at": "2026-10-12T02:46:01.347715+00:00",
   "articles": [
     {
       "title": "BBC News app",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "How student went from YouTube to Bake Off",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg905xk4zjo?at_medium=RSS&at_campaign=rss",
-      "description": "A Birmingham student in the Channel 4 show taught himself after \"stumbling across a YouTube video\".",
-      "published": "Wed, 07 Oct 2026 05:08:54 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -23,248 +16,297 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-      "description": "Why a growing number of parents are opening pensions for their children.",
-      "published": "Tue, 06 Oct 2026 08:16:11 GMT",
+      "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
+      "link": "https://www.bbc.co.uk/news/articles/cmn5d92423vyo?at_medium=RSS&at_campaign=rss",
+      "description": "The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
+      "published": "Sun, 11 Oct 2026 23:39:12 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Scotland's 'Chornobyl' housing scheme takes starring role in new horror film",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
-      "description": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
-      "published": "Tue, 06 Oct 2026 04:57:00 GMT",
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "description": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "published": "Sun, 11 Oct 2026 23:13:51 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "The Wave of Student Protests Roiling France",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html",
-      "description": "Anger about classroom overcrowding, teacher shortages and broken-down buildings has boiled over in recent weeks, and threatens to coalesce into broader grievances in a heated political season.",
-      "published": "Thu, 08 Oct 2026 21:35:43 +0000",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "description": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "published": "Sun, 11 Oct 2026 23:07:35 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Iran war threatens Healey's Budget plans, think tank warns",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+      "description": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+      "published": "Sun, 11 Oct 2026 23:04:07 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
+      "link": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo?at_medium=RSS&at_campaign=rss",
+      "description": "The Borat star said he was \"beyond delighted\" to be working on the show, The Popinjay Cavalier, with the Pulp Fiction director.",
+      "published": "Sun, 11 Oct 2026 23:03:55 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Could you spot cancer symptoms in children?",
+      "link": "https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&at_campaign=rss",
+      "description": "Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.",
+      "published": "Sun, 11 Oct 2026 23:03:45 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Ex-hurricane to bring warm weather to the UK this week",
+      "link": "https://www.bbc.co.uk/weather/articles/c9e8lmmevd70o?at_medium=RSS&at_campaign=rss",
+      "description": "Close to record-breaking warm nights are possible this week as warmer air heads for the UK.",
+      "published": "Sun, 11 Oct 2026 23:03:15 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "published": "Sun, 11 Oct 2026 22:45:58 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+      "published": "Sun, 11 Oct 2026 21:36:40 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Reform would suspend asylum system for parliamentary term if in government",
+      "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+      "description": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+      "published": "Sun, 11 Oct 2026 21:18:15 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "An Israeli Election Like No Other",
+      "link": "https://www.nytimes.com/2026/10/11/world/israel-election-india-protests-riyadh.html",
+      "description": "Many say a vote in two weeks may be the most consequential in Israel’s history.",
+      "published": "Sun, 11 Oct 2026 20:57:39 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html",
-      "description": "Thousands of protesters marched in Madrid on Thursday, a day after the death of María del Carmen Abascal, an 87-year-old whose eviction became a symbol of the country’s housing crisis.",
-      "published": "Thu, 08 Oct 2026 21:27:06 +0000",
+      "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+      "description": "A recent medical examination found a small nodule, he announced, adding that doctors would remove it this week.",
+      "published": "Sun, 11 Oct 2026 20:15:09 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Cecily Gemmell, Winston Churchill’s Last Surviving Secretary, Has Died",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/cecily-gemmell-dead.html",
-      "description": "Starting with the British leader at age 18, she traveled the world with him. “I was terrified of him,” she later recalled.",
-      "published": "Thu, 08 Oct 2026 20:11:10 +0000",
+      "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+      "published": "Sun, 11 Oct 2026 20:02:27 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Legoland Windsor evacuated over burst water main",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d83pjn0qo?at_medium=RSS&at_campaign=rss",
+      "description": "Some customers were forced to leave the theme park halfway through their visit on Sunday.",
+      "published": "Sun, 11 Oct 2026 20:00:32 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+      "description": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
+      "published": "Sun, 11 Oct 2026 19:57:48 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
-      "description": "Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.",
-      "published": "Thu, 08 Oct 2026 19:31:01 +0000",
+      "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss",
+      "description": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
+      "published": "Sun, 11 Oct 2026 19:41:17 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "published": "Sun, 11 Oct 2026 19:08:04 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
+      "description": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.",
+      "published": "Sun, 11 Oct 2026 18:59:19 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
+      "link": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
+      "description": "The shipwreck is among the deadliest ever recorded on the route to Yemen, the International Organization for Migration said. Dozens remain missing, and the bodies of 15 children were recovered.",
+      "published": "Sun, 11 Oct 2026 18:58:00 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Margaret Papandreou, American-Born First Lady of Greece, Dies at 102",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/margaret-papandreou-dead.html",
-      "description": "The wife of Prime Minister Andreas Papandreou, she led reforms in the 1980s that helped legalize abortion and end other legal and social restrictions on women.",
-      "published": "Thu, 08 Oct 2026 18:53:52 +0000",
+      "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss",
+      "description": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
+      "published": "Sun, 11 Oct 2026 18:32:19 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Burnham to release details of Man City meetings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
+      "description": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
+      "published": "Sun, 11 Oct 2026 18:01:13 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+      "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+      "published": "Sun, 11 Oct 2026 18:00:30 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+      "description": "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries. Mr. Zelensky said he’ll stop — if Russia does too.",
+      "published": "Sun, 11 Oct 2026 17:59:30 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html",
-      "description": "Counterterrorism police said the men were found inside the perimeter of R.A.F. Molesworth, a base used by the United States, raising concerns about security.",
-      "published": "Thu, 08 Oct 2026 18:37:58 +0000",
+      "title": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&at_campaign=rss",
+      "description": "The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.",
+      "published": "Sun, 11 Oct 2026 17:52:45 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "India’s Youth Protests Challenge Narendra Modi",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-crackdown-narendra-modi.html",
+      "description": "Prime Minister Narendra Modi of India has long succeeded in isolating and undermining opponents. The Gen Z protests pose a challenge unlike any he has faced before.",
+      "published": "Sun, 11 Oct 2026 17:44:16 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
-      "description": "As rumors spread about a possible plague outbreak in Siberia, the Kremlin turned to a familiar playbook: offering little information about potential bad news.",
-      "published": "Thu, 08 Oct 2026 18:22:08 +0000",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "published": "Sun, 11 Oct 2026 17:27:24 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Pakistan Seizes Control of an Opposition-Led Province",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
+      "description": "The federal government, speaking of “a severe breakdown in law and order” in Khyber Pakhtunkhwa amid militant violence, named a politically allied official as in charge.",
+      "published": "Sun, 11 Oct 2026 16:25:43 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html",
-      "description": "A majority of ownership in a proposed multibillion-dollar deal would go to a group of Middle Eastern investors, including some with business ties to U.S. negotiators.",
-      "published": "Thu, 08 Oct 2026 16:28:17 +0000",
+      "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+      "description": "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.",
+      "published": "Sun, 11 Oct 2026 16:16:44 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Nana Patekar, Indian Actor Who Embodied the Everyman, Dies at 75",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/nana-patekar-dead.html",
-      "description": "He brought the intensity of the stage to the screen and was praised for his craft and philanthropy. He was also accused of sexual harassment.",
-      "published": "Thu, 08 Oct 2026 16:18:39 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Pita Limjaroenrat: The Leader Thailand Could Have Had",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/pita-limjaroenrat-thailand.html",
-      "description": "An interview with Pita Limjaroenrat, the former leader of the Move Forward party.",
-      "published": "Thu, 08 Oct 2026 16:10:43 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Warrants to Search Former Prince Andrew’s Properties Were Unlawful, Court Says",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html",
-      "description": "A judge in London said that a “significant error” had been made in the granting of search warrants in an investigation into Andrew Mountbatten-Windsor.",
-      "published": "Thu, 08 Oct 2026 16:10:22 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "At the Athens Democracy Forum, Debating the Risks Posed by A.I.",
-      "link": "https://www.nytimes.com/2026/10/08/world/athens-democracy-forum-artificial-intelligence.html",
-      "description": "Technology and its threats were central themes at the Athens Democracy Forum.",
-      "published": "Thu, 08 Oct 2026 16:00:04 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "'My donated Brummie accent gives me confidence'",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6n25vlelqo?at_medium=RSS&at_campaign=rss",
-      "description": "Christian Wilson wanted help not to \"sound like a character from Star Wars or a cyborg from Doctor Who\".",
-      "published": "Thu, 08 Oct 2026 12:32:16 GMT",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "published": "Sun, 11 Oct 2026 15:32:23 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Why are so many four-year-olds not potty-trained before school?",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vnp4jrkdo?at_medium=RSS&at_campaign=rss",
-      "description": "A third of school starters in the West Midlands last year were not toilet-trained, a survey suggests.",
-      "published": "Sun, 11 Oct 2026 02:33:35 GMT",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "published": "Sun, 11 Oct 2026 15:18:52 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "published": "Sun, 11 Oct 2026 01:41:29 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Man dies after tiger attack at wildlife park",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-      "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
-      "published": "Sun, 11 Oct 2026 01:05:37 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "published": "Sun, 11 Oct 2026 00:49:17 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "UK launch flood taskforce to prepare for extreme winter weather",
-      "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
-      "description": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.",
-      "published": "Sun, 11 Oct 2026 00:44:37 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-      "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-      "description": "The strike on Saturday was the deadliest attack in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and forced the airport to temporarily suspend operations.",
-      "published": "Sun, 11 Oct 2026 00:31:33 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "description": "Another 309 people are injured, with a Saudi-led military coalition saying the attack by Yemen's Houthis is a \"war crime\".",
-      "published": "Sun, 11 Oct 2026 00:21:52 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "'Tiger attack horror' and Trump tells Zelensky 'time to go'",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn710m8d7o?at_medium=RSS&at_campaign=rss",
-      "description": "The majority of the papers on Sunday are dominated by a man who was attacked by a tiger at a wildlife park near Doncaster.",
-      "published": "Sat, 10 Oct 2026 23:45:45 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
-      "link": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo?at_medium=RSS&at_campaign=rss",
-      "description": "Kimberley Atkinson assumed her symptoms were depression until her behaviour started to change dramatically.",
-      "published": "Sat, 10 Oct 2026 23:40:25 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-      "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
-      "published": "Sat, 10 Oct 2026 23:31:35 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-      "published": "Sat, 10 Oct 2026 23:19:55 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
-      "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
-      "description": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
-      "published": "Sat, 10 Oct 2026 23:18:16 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
-      "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
-      "description": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
-      "published": "Sat, 10 Oct 2026 23:17:03 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Bid to overturn ruling which stops police being sued for failings",
-      "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-      "description": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
-      "published": "Sat, 10 Oct 2026 23:04:37 GMT",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "published": "Sun, 11 Oct 2026 14:38:10 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
       "link": "https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html",
       "description": "The man came face to face with an Amur tiger inside the animal’s habitat at Yorkshire Wildlife Park in England. The park was evacuated and closed to the public.",
-      "published": "Sat, 10 Oct 2026 23:02:13 +0000",
+      "published": "Sun, 11 Oct 2026 13:31:12 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-      "published": "Sat, 10 Oct 2026 22:13:08 GMT",
+      "title": "Wildlife park remains closed after fatal tiger attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+      "description": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
+      "published": "Sun, 11 Oct 2026 12:38:02 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-      "description": "Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.",
-      "published": "Sat, 10 Oct 2026 20:58:39 GMT",
+      "title": "Wringing Hope From the Rubble of Gaza",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
+      "description": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped.",
+      "published": "Sun, 11 Oct 2026 11:25:54 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "What to Know About the Protests in India",
+      "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+      "description": "Scattered protests against sweeping revisions to India’s voter rolls broke out on Sunday in New Delhi. The police met earlier protests with an extraordinary show of force.",
+      "published": "Sun, 11 Oct 2026 11:24:43 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
+      "description": "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests.",
+      "published": "Sun, 11 Oct 2026 10:43:17 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Northern Lights stun UK down to England's south coast",
-      "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
-      "description": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
-      "published": "Sat, 10 Oct 2026 20:57:29 GMT",
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+      "description": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+      "published": "Sun, 11 Oct 2026 10:34:02 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
-      "description": "It couldn't happen again could it? Another failure to beat 10 men increases pressure on Man Utd boss Michael Carrick after a 1-1 draw against Tottenham Hotspur.",
-      "published": "Sat, 10 Oct 2026 20:54:46 GMT",
-      "source": "feeds.bbci.co.uk"
+      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+      "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
+      "description": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.",
+      "published": "Sun, 11 Oct 2026 09:00:31 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+      "description": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
+      "published": "Sun, 11 Oct 2026 09:00:28 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
+      "description": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.",
+      "published": "Sun, 11 Oct 2026 09:00:12 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+      "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+      "description": "The strike on Saturday was the deadliest attack in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and forced the airport to temporarily suspend operations.",
+      "published": "Sun, 11 Oct 2026 08:55:27 +0000",
+      "source": "rss.nytimes.com"
     },
     {
       "title": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should ‘Get a New President’",
       "link": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html",
       "description": "Hours after President Trump said the United States would buy Russian diesel, the Kremlin said there would be no immediate resumption of discussions to end the war.",
-      "published": "Sat, 10 Oct 2026 19:28:54 +0000",
+      "published": "Sat, 10 Oct 2026 19:28:55 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -282,53 +324,18 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "published": "Sat, 10 Oct 2026 18:22:29 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "The rock behind Chelsea's entertainers: Midfield duo key for Blues",
-      "link": "https://www.bbc.co.uk/sport/articles/cw3dj5yx4ej2o?at_medium=RSS&at_campaign=rss",
-      "description": "The performances of Jordan Henderson and Moises Caicedo underpinned Chelsea's 5-1 victory at home to Bournemouth on Saturday afternoon.",
-      "published": "Sat, 10 Oct 2026 18:09:37 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle",
       "link": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html",
       "description": "The U.S. ambassador to Greece is facing accusations that she asked a donor to pay off her credit card bill before she took up her post in Athens.",
-      "published": "Sat, 10 Oct 2026 17:48:20 +0000",
+      "published": "Sat, 10 Oct 2026 17:48:21 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss",
-      "description": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
-      "published": "Sat, 10 Oct 2026 17:46:36 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "published": "Sat, 10 Oct 2026 17:44:26 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
       "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
       "description": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
-      "published": "Sat, 10 Oct 2026 17:09:16 +0000",
+      "published": "Sat, 10 Oct 2026 17:09:17 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
-      "description": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
-      "published": "Sat, 10 Oct 2026 17:07:02 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Palestinian Authority Formally Delays Elections, Despite Western Pressure",
@@ -343,13 +350,6 @@
       "description": "Thousands of young people tried to gather to protest a sweeping revision of their country’s voter roll. Security forces hauled many of them away.",
       "published": "Sat, 10 Oct 2026 16:50:45 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Northampton outgun Bath in 119-point thriller",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm237zey5rgo?at_medium=RSS&at_campaign=rss",
-      "description": "Northampton win a high-octane 18-try thriller at home to Bath, the second highest-scoring game in English top-flight history.",
-      "published": "Sat, 10 Oct 2026 16:07:54 GMT",
-      "source": "feeds.bbci.co.uk"
     }
   ]
 }
