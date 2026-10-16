@@ -1,26 +1,12 @@
 {
-  "updated_at": "2026-10-15T02:58:13.240613+00:00",
+  "updated_at": "2026-10-16T02:58:20.756390+00:00",
   "articles": [
     {
-      "title": "BBC News app",
+      "title": "Download now",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
-      "description": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
-      "published": "Wed, 14 Oct 2026 23:35:40 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-      "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-      "description": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
-      "published": "Wed, 14 Oct 2026 23:30:02 +0000",
-      "source": "rss.nytimes.com"
     },
     {
       "title": "Brazil’s President Lula Accuses Meta of Helping His Right-Wing Opponent",
@@ -30,129 +16,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-      "published": "Wed, 14 Oct 2026 23:02:57 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&at_campaign=rss",
-      "description": "On their return to Etihad Stadium Manchester City put on a show of defiance - even in the face of a PSG masterclass, writes Phil McNulty.",
-      "published": "Wed, 14 Oct 2026 22:57:23 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Jackson steps up again as Aston Villa revival continues",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss",
-      "description": "Nicolas Jackson continues his fine goalscoring form as Aston Villa record an impressive Champions League win.",
-      "published": "Wed, 14 Oct 2026 22:45:22 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Martinez outburst came out of 'anger and frustration'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching a scathing attack on the club's hierarchy.",
-      "published": "Wed, 14 Oct 2026 22:42:02 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Reform faces criticism after councillors filmed making racist comments",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
-      "description": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
-      "published": "Wed, 14 Oct 2026 22:34:47 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Why Trump Made a Diesel Deal With Putin",
       "link": "https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html",
       "description": "Our national security and White House correspondent David E. Sanger breaks down why President Donald Trump struck a deal with President Vladimir V. Putin to import Russian diesel fuel in the coming months, despite having signed recent congressional legislation tightening energy sanctions on Russia.",
       "published": "Wed, 14 Oct 2026 22:26:38 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
-      "description": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
-      "published": "Wed, 14 Oct 2026 22:19:13 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "PSG on 'different level' - are they building greatest European dynasty?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&at_campaign=rss",
-      "description": "Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?",
-      "published": "Wed, 14 Oct 2026 21:55:37 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action",
-      "link": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
-      "description": "Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in Britain.",
-      "published": "Wed, 14 Oct 2026 21:52:20 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "UK threatens to ban Eritreans over migrant return policy",
-      "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-      "description": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-      "published": "Wed, 14 Oct 2026 21:30:13 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Man City show fight but fall short of fightback against slick PSG",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&at_campaign=rss",
-      "description": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
-      "published": "Wed, 14 Oct 2026 21:19:45 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "published": "Wed, 14 Oct 2026 20:55:24 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "On night of mayhem for Liverpool, Barcola arrives in style",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
-      "description": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK - but the France forward's Champions League hat-trick was the perfect answer.",
-      "published": "Wed, 14 Oct 2026 20:46:35 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Why Zelensky's meeting with Burnham matters",
-      "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-      "description": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
-      "published": "Wed, 14 Oct 2026 20:41:03 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Angry Youth in Aging Europe",
-      "link": "https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html",
-      "description": "A bitter generational battle over resources is boiling over as economic growth on the continent stalls.",
-      "published": "Wed, 14 Oct 2026 20:34:31 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "published": "Wed, 14 Oct 2026 19:52:04 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Swimmer Archie Goodburn thanks prime minister as brain cancer review announced",
-      "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
-      "description": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
-      "published": "Wed, 14 Oct 2026 19:04:46 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Why Chinese College Grads Are Becoming Farmers",
-      "link": "https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html",
-      "description": "Facing a competitive job market, college graduates in China are trading corporate jobs for farming, equipped with smartphones and tech skills.",
-      "published": "Wed, 14 Oct 2026 18:31:17 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -163,59 +30,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "What if you could turn off your algorithm? Australia is about to try",
-      "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
-      "description": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
-      "published": "Wed, 14 Oct 2026 18:00:54 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
-      "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
-      "published": "Wed, 14 Oct 2026 17:55:53 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "description": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-      "published": "Wed, 14 Oct 2026 17:46:30 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Turkey Raids Pro-Opposition TV Station",
       "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
       "description": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced the leadership at five major news outlets.",
       "published": "Wed, 14 Oct 2026 17:00:41 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "I do not have confidence UK is safe from Russian threats, says Swinney",
-      "link": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo?at_medium=RSS&at_campaign=rss",
-      "description": "The first minister speaks to BBC Scotland News ahead of the SNP's annual conference in Aberdeen.",
-      "published": "Wed, 14 Oct 2026 16:57:21 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
-      "description": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
-      "published": "Wed, 14 Oct 2026 16:56:21 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "published": "Wed, 14 Oct 2026 16:47:32 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Pope Leo Is in ‘Good Mood’ After Cancer Surgery, Vatican Says: What to Know",
-      "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
-      "description": "Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he was walking and receiving therapy after an operation to remove a cancerous nodule.",
-      "published": "Wed, 14 Oct 2026 16:32:23 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -231,20 +49,6 @@
       "description": "China’s exports grew last month at the fastest pace in almost any month since the end of the global financial crisis.",
       "published": "Wed, 14 Oct 2026 15:41:21 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-      "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-      "description": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
-      "published": "Wed, 14 Oct 2026 15:34:19 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "published": "Wed, 14 Oct 2026 15:26:14 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece",
@@ -279,27 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
       "description": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.",
       "published": "Wed, 14 Oct 2026 13:11:17 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "What we know about the Pope's lung cancer diagnosis",
-      "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
-      "description": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
-      "published": "Wed, 14 Oct 2026 12:37:33 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-      "description": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-      "published": "Wed, 14 Oct 2026 11:57:22 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
-      "description": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.",
-      "published": "Wed, 14 Oct 2026 11:30:00 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -349,6 +132,223 @@
       "link": "https://www.nytimes.com/2026/10/14/world/asia/korea-assassins-movie.html",
       "description": "The film, “The Assassin(s),” revisits a 1974 shooting that has spawned J.F.K.-style conspiracy theories, exposing divides over the country’s history.",
       "published": "Wed, 14 Oct 2026 05:22:33 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Trump Hands Victories to Putin, Who Offers More War in Return",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+      "description": "Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia.",
+      "published": "Wed, 14 Oct 2026 05:03:25 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Trump Squeezes Ukraine, Again",
+      "link": "https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html",
+      "description": "The president’s proposed fuel deal with Russia and a one-sided cease-fire plan are putting Kyiv in a tough spot as winter approaches.",
+      "published": "Wed, 14 Oct 2026 04:41:32 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+      "description": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
+      "published": "Wed, 14 Oct 2026 00:56:54 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "description": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "published": "Wed, 14 Oct 2026 00:12:23 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Sign up now",
+      "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
+      "description": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
+      "published": "Wed, 09 Sep 2026 10:24:59 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
+      "link": "https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html",
+      "description": "Critical infrastructure has been targeted in a wave of cyberattacks, which experts say are rising because of artificial intelligence.",
+      "published": "Tue, 13 Oct 2026 21:22:07 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
+      "description": "After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.",
+      "published": "Tue, 13 Oct 2026 20:31:15 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Russia Detains Japanese Journalist for Alleged Espionage",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
+      "description": "The main security service said it had detained a reporter for the Hokkaido Shimbun newspaper in Russia’s far east, where he had been reporting on military recruitment.",
+      "published": "Tue, 13 Oct 2026 19:55:42 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html",
+      "description": "Breaking a weekslong silence, Thélyson Orélien, a Haitian-Canadian writer, still rejected accusations about his new novel, ‘It Was Either That or Die.’",
+      "published": "Tue, 13 Oct 2026 17:26:05 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
+      "description": "The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”",
+      "published": "Tue, 13 Oct 2026 16:04:04 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html",
+      "description": "Drones struck two ships off Bulgaria’s Black Sea coast, according to the country’s prime minister.",
+      "published": "Tue, 13 Oct 2026 15:56:06 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Reform faces questions over candidate vetting after undercover filming",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
+      "description": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
+      "published": "Thu, 15 Oct 2026 23:52:27 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "India's 'cockroach' protesters set to return despite police crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "description": "The youth-led movement plans a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "published": "Thu, 15 Oct 2026 23:30:29 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+      "description": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+      "published": "Thu, 15 Oct 2026 23:27:57 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+      "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+      "published": "Thu, 15 Oct 2026 23:25:06 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt",
+      "link": "https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html",
+      "description": "As ties with the Trump administration fray, María Corina Machado said her return to Venezuela would come “sooner than you would expect.”",
+      "published": "Thu, 15 Oct 2026 23:24:50 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "I find it quite demoralising in store - why I do all my shopping online",
+      "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+      "description": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+      "published": "Thu, 15 Oct 2026 23:16:12 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&at_campaign=rss",
+      "description": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
+      "published": "Thu, 15 Oct 2026 23:04:37 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
+      "description": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
+      "published": "Thu, 15 Oct 2026 23:01:49 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Minus 17 to European dreams as Bournemouth fairytale continues",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o?at_medium=RSS&at_campaign=rss",
+      "description": "It was a night 127 years in the making as Bournemouth added another chapter to their fairytale with victory in their first-ever European home game.",
+      "published": "Thu, 15 Oct 2026 22:42:26 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Violent Protests in Albania",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
+      "description": "Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.",
+      "published": "Thu, 15 Oct 2026 21:40:23 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "America’s Most Expensive Senate Race",
+      "link": "https://www.nytimes.com/2026/10/15/world/us-midterms-texas-zelensky-ukraine.html",
+      "description": "The Senate showdown in Texas shows why Donald Trump and the Republican Party are worried about the midterm elections.",
+      "published": "Thu, 15 Oct 2026 20:37:19 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "London housing project wins top architecture award",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss",
+      "description": "Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.",
+      "published": "Thu, 15 Oct 2026 20:36:32 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Mexico Bans Violent Content on Social Media for Children",
+      "link": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
+      "description": "Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospect of tougher measures.",
+      "published": "Thu, 15 Oct 2026 20:27:39 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Pope Leo Is Recovering After Cancer Surgery, Vatican Says: What to Know",
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
+      "description": "Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he had celebrated Mass at the hospital and resumed working “at a restrained pace” after an operation to remove a cancerous nodule.",
+      "published": "Thu, 15 Oct 2026 20:02:54 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Mother of Henry Nowak killer could be deported",
+      "link": "https://www.bbc.co.uk/news/articles/cqze4l9l2eywo?at_medium=RSS&at_campaign=rss",
+      "description": "Kiran Kaur was found guilty of assisting an offender and was jailed for three years in July.",
+      "published": "Thu, 15 Oct 2026 19:43:07 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "6 Members of South Africa’s Biggest Party Are Killed in Shootings",
+      "link": "https://www.nytimes.com/2026/10/15/world/africa/south-africa-anc-campaign-election.html",
+      "description": "The two shootings took place only a few weeks before pivotal, nationwide local elections, and as the party, the A.N.C., is embroiled in a dispute over the eligibility of more than 100 candidates.",
+      "published": "Thu, 15 Oct 2026 19:40:59 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Severe drought declared in parts of southern England",
+      "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+      "description": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+      "published": "Thu, 15 Oct 2026 19:26:13 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "20 Hours After Falling Overboard, Cruise Passenger Is Rescued Near Greece",
+      "link": "https://www.nytimes.com/2026/10/15/travel/cruise-passenger-overboard-rescue-greece.html",
+      "description": "According to Greek officials, the woman told her rescuers she had jumped off the ship because she “wanted to disembark.”",
+      "published": "Thu, 15 Oct 2026 19:00:51 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+      "description": "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum.",
+      "published": "Thu, 15 Oct 2026 18:18:46 +0000",
       "source": "rss.nytimes.com"
     }
   ]
