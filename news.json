@@ -1,11 +1,60 @@
 {
-  "updated_at": "2026-10-20T02:59:04.688483+00:00",
+  "updated_at": "2026-10-21T02:59:09.210130+00:00",
   "articles": [
     {
       "title": "Download now",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
+      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+      "description": "Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.",
+      "published": "Wed, 21 Oct 2026 02:51:17 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
+      "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+      "published": "Wed, 21 Oct 2026 01:28:16 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "France is divided over who to blame for and what to learn from weekend riots",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "published": "Wed, 21 Oct 2026 01:22:51 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
+      "link": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+      "description": "Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.",
+      "published": "Wed, 21 Oct 2026 01:01:48 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+      "link": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+      "description": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+      "published": "Wed, 21 Oct 2026 00:48:25 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+      "link": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+      "description": "Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.",
+      "published": "Wed, 21 Oct 2026 00:25:00 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "The Papers: 'Burnham faces climate revolt' and 'Harry wants to fix feud'",
+      "link": "https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo?at_medium=RSS&at_campaign=rss",
+      "description": "Several papers lead on remarks from the Duke of Sussex yesterday, where he said he hoped to reconcile with his family.",
+      "published": "Wed, 21 Oct 2026 00:21:34 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -16,340 +65,291 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "description": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
-      "published": "Tue, 20 Oct 2026 02:54:05 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Oil-Rich Alberta Votes on its Future in Canada",
-      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-      "description": "Electors have been asked if they wish to remain in Canada or to hold another vote on breaking away in a referendum that left both sides unhappy.",
-      "published": "Tue, 20 Oct 2026 02:41:51 +0000",
+      "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+      "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
+      "description": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
+      "published": "Tue, 20 Oct 2026 23:31:30 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Deaths at Danjiri Float Festival Prompt Questions in Japan",
-      "link": "https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html",
-      "description": "The vibrant danjiri tradition dates back three centuries, but two recent fatalities have prompted anxiety over whether participants can remain safe.",
-      "published": "Tue, 20 Oct 2026 02:20:07 +0000",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "published": "Tue, 20 Oct 2026 23:24:47 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o?at_medium=RSS&at_campaign=rss",
+      "description": "There will be restrictions on who can carry out procedures and fines for those who flout the law, in England in 2027.",
+      "published": "Tue, 20 Oct 2026 23:06:07 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "I left state secrets on the train - I'm proof you can recover from the biggest mistake of your life",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz4g4ln4no?at_medium=RSS&at_campaign=rss",
+      "description": "Top civil servant Richard Jackson recounts that fateful day and how he recovered in the aftermath.",
+      "published": "Tue, 20 Oct 2026 23:05:05 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Ali G is back. But is the character past its sell-by date?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4vn2rnxgo?at_medium=RSS&at_campaign=rss",
+      "description": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse.",
+      "published": "Tue, 20 Oct 2026 23:04:14 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Where to spot brilliant colours after 'false autumn' spoils some leaf displays",
+      "link": "https://www.bbc.co.uk/weather/articles/cr62yw2lvyg2o?at_medium=RSS&at_campaign=rss",
+      "description": "The UK's hottest summer on record has caused some trees to shed their leaves early, but experts say spectacular autumn colours could still be on the way.",
+      "published": "Tue, 20 Oct 2026 23:04:07 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "No jeopardy but loads of fun - Champions League sets new goals record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&at_campaign=rss",
+      "description": "It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season.",
+      "published": "Tue, 20 Oct 2026 23:03:11 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "The night 'ruthless' Ngumoha came of age for Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&at_campaign=rss",
+      "description": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
+      "published": "Tue, 20 Oct 2026 22:56:55 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
+      "description": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.",
+      "published": "Tue, 20 Oct 2026 22:35:32 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+      "description": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\"",
+      "published": "Tue, 20 Oct 2026 22:29:24 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
+      "link": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
+      "description": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.",
+      "published": "Tue, 20 Oct 2026 22:22:08 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "published": "Tue, 20 Oct 2026 01:31:09 GMT",
+      "title": "Art Basel Paris Preview Draws Interest Despite Protests",
+      "link": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+      "description": "The Avant-Première preview of the Art Basel Paris fair attracted major collectors despite an escalation of anti-government protests, riots and looting across French cities.",
+      "published": "Tue, 20 Oct 2026 22:15:23 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "60 years on: The Aberfan disaster through the eyes of those who survived",
+      "link": "https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo?at_medium=RSS&at_campaign=rss",
+      "description": "It is 60 years since one of Wales' darkest days, when a mining community changed forever.",
+      "published": "Tue, 20 Oct 2026 21:54:47 GMT",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "published": "Tue, 20 Oct 2026 21:27:39 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Carrick wants more clean sheets to turn season around",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+      "published": "Tue, 20 Oct 2026 21:27:35 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
+      "description": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.",
+      "published": "Tue, 20 Oct 2026 21:21:16 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Second Labour MP suspended over Covid loan repayments",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+      "description": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+      "published": "Tue, 20 Oct 2026 21:20:28 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Audit regulator looking into Manchester City accounting",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+      "published": "Tue, 20 Oct 2026 20:56:53 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+      "description": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.",
+      "published": "Tue, 20 Oct 2026 20:39:58 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Is Putin’s Waiting Game Working?",
+      "link": "https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html",
+      "description": "Trump’s push for deals and Europe’s political fractures seem to be giving the Russian president the opening he’s been waiting for.",
+      "published": "Tue, 20 Oct 2026 20:29:55 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
+      "description": "The counterterrorism police investigating a threat against an English air base used by U.S. bombers said the two men were working on behalf of Iran.",
+      "published": "Tue, 20 Oct 2026 20:05:06 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "published": "Tue, 20 Oct 2026 20:00:57 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It",
+      "link": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
+      "description": "In a symbolic move, the French Senate approved the repeal of regulations that had remained on the books long after slavery’s abolition.",
+      "published": "Tue, 20 Oct 2026 19:33:59 +0000",
+      "source": "rss.nytimes.com"
     },
     {
       "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
       "description": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
-      "published": "Tue, 20 Oct 2026 01:00:18 +0000",
+      "published": "Tue, 20 Oct 2026 19:00:35 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91",
-      "link": "https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html",
-      "description": "Reportedly the wealthiest man in the poorest country in the Western Hemisphere, Gilbert Bigio was sanctioned for ties to criminal gangs. He was 91.",
-      "published": "Tue, 20 Oct 2026 00:34:01 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "US church on frontline of battle against drug known as 'tranq'",
-      "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-      "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-      "published": "Tue, 20 Oct 2026 00:02:32 GMT",
+      "title": "Schools should recognise antisemitism as distinct form of harm, review says",
+      "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+      "description": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell.",
+      "published": "Tue, 20 Oct 2026 18:52:32 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
-      "description": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.",
-      "published": "Sun, 18 Oct 2026 22:50:28 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Albania’s Leader, Edi Rama, Denounces Violent Protests",
-      "link": "https://www.nytimes.com/2026/10/18/world/europe/albania-protrests.html",
-      "description": "Students upset by living and educational costs have revived protests. Prime Minister Edi Rama said they were being used by “outside forces.”",
-      "published": "Sun, 18 Oct 2026 21:49:49 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Kenya Confirms Four New Ebola Cases",
-      "link": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
-      "description": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus.",
-      "published": "Sun, 18 Oct 2026 17:58:54 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
-      "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
-      "description": "The defense minister said people were killed and injured at a base in Alberta, but officials did not offer details on the cause.",
-      "published": "Sun, 18 Oct 2026 16:13:43 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-      "description": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
-      "published": "Sun, 18 Oct 2026 16:11:54 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
-      "description": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.",
-      "published": "Sun, 18 Oct 2026 16:08:43 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
-      "link": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
-      "description": "President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.",
-      "published": "Sun, 18 Oct 2026 15:00:03 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
-      "link": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
-      "description": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
-      "published": "Sun, 18 Oct 2026 14:30:49 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
-      "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
-      "description": "Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader.",
-      "published": "Sun, 18 Oct 2026 13:10:19 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "At Least 19 Dead After Stampede at Indian Religious Event",
-      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
-      "description": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved.",
-      "published": "Sun, 18 Oct 2026 08:47:38 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-      "description": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.",
-      "published": "Sun, 18 Oct 2026 07:36:55 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Dispute Between Trump Allies Centers on Millions Transferred From Congo",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-      "description": "The White House inquiry is focused on diverging accounts from Richard Grenell and Alina Habba Mildon about a $17 million transfer from a government account in the African country to a Texas defense firm.",
-      "published": "Sat, 17 Oct 2026 20:45:21 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
-      "link": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
-      "description": "The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico.",
-      "published": "Sat, 17 Oct 2026 19:58:23 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "What to Know About the Violent Protests in Albania",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
-      "description": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trump’s son-in-law.",
-      "published": "Sat, 17 Oct 2026 18:57:34 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Egypt’s President Says He Will Leave Office in 2030",
-      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
-      "description": "President Abdel Fattah el-Sisi, who has so far ruled for over a dozen years, pledged to respect constitutional limits while also seeking parliamentary approval to help defend Saudi Arabia.",
-      "published": "Sat, 17 Oct 2026 18:06:53 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
-      "description": "The Trump administration is pitching the idea as part of a peace deal with Ukraine, but Europe is wary and critics say Russia would be strengthened.",
-      "published": "Sat, 17 Oct 2026 18:00:45 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
-      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
-      "description": "New clashes were reported as the Houthis put more pressure on Taiz, a city connecting the government-held south of the country and the Red Sea.",
-      "published": "Sat, 17 Oct 2026 16:46:15 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
-      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
-      "description": "Abhijeet Dipke, the founder of the Cockroach Janta Party, was detained on his way to a protest called to demand the resignation of India’s top election official.",
-      "published": "Sat, 17 Oct 2026 15:50:20 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "A Calgary Crowd Rallies for Canada as Alberta’s Vote on Secession Nears",
-      "link": "https://www.nytimes.com/2026/10/17/world/canada/alberta-referendum-separation-smith.html",
-      "description": "Prime Minister Mark Carney was among the speakers calling for a united Canada and warning about the dangers of division.",
-      "published": "Sat, 17 Oct 2026 12:14:57 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "'The French correction' and 'Labour cuts £2bn from Army'",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7y0vkz2yno?at_medium=RSS&at_campaign=rss",
-      "description": "Violent unrest in France continues and Defence drops funding for frontline military vehicles lead Tuesday's papers.",
-      "published": "Mon, 19 Oct 2026 23:35:32 GMT",
+      "title": "Watch: Why does Prince Harry want to 'work it out' with his father and brother?",
+      "link": "https://www.bbc.co.uk/news/videos/cm0e0z7dwrd9o?at_medium=RSS&at_campaign=rss",
+      "description": "Noor Nanji breaks down Prince Harry's interview with GQ Magazine, after he said he wants to \"reconcile\" with his family.",
+      "published": "Tue, 20 Oct 2026 18:40:27 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "England coach should be English, suggests Fleming",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
-      "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
-      "published": "Mon, 19 Oct 2026 23:29:19 GMT",
+      "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+      "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+      "published": "Tue, 20 Oct 2026 18:32:14 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Who has made Troy's Premier League team of the week?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
-      "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "published": "Mon, 19 Oct 2026 23:22:24 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Criminals detained in hospital set to lose benefits",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
-      "description": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
-      "published": "Mon, 19 Oct 2026 23:21:38 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "I have a condition people are too embarrassed to talk about",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgr43l7pdpo?at_medium=RSS&at_campaign=rss",
-      "description": "Women share their experience of lichen sclerosus.",
-      "published": "Mon, 19 Oct 2026 23:11:13 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "published": "Mon, 19 Oct 2026 23:08:25 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "The singles choosing in-person dating events over apps",
-      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC hears from people who think dating events are better value for money than dating apps.",
-      "published": "Mon, 19 Oct 2026 23:00:21 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass",
-      "link": "https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html",
-      "description": "The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.",
-      "published": "Mon, 19 Oct 2026 22:54:53 +0000",
+      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+      "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+      "description": "Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.",
+      "published": "Tue, 20 Oct 2026 18:01:58 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Maddison's magic moment for Spurs - 18 months in the making",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss",
-      "description": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
-      "published": "Mon, 19 Oct 2026 22:35:55 GMT",
+      "title": "UK government to make Jackdaw gas field announcement",
+      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+      "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+      "published": "Tue, 20 Oct 2026 17:33:42 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
-      "description": "The police’s treatment of the student last month sheds light on how a wave of school unrest evolved into national protests that spilled into widespread riots on Saturday.",
-      "published": "Mon, 19 Oct 2026 22:20:21 +0000",
+      "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
+      "link": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
+      "description": "The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.",
+      "published": "Tue, 20 Oct 2026 16:32:18 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Coast Guard Halts Search for Survivors of Capsized Boat Off Mexico",
-      "link": "https://www.nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html",
-      "description": "Some 11 people were missing but 16 were rescued, including three who had injuries consistent with shark bites, the authorities said.",
-      "published": "Mon, 19 Oct 2026 21:58:06 +0000",
+      "title": "Sloppy England start winter with Pakistan defeat",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss",
+      "description": "England begin their wandering winter with a sloppy loss to Pakistan in the one-day tri-series in Rawalpindi.",
+      "published": "Tue, 20 Oct 2026 16:13:27 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+      "description": "The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.",
+      "published": "Tue, 20 Oct 2026 16:06:13 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
-      "link": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
-      "description": "Paul Nthenge Mackenzie told his doomsday followers in a remote forest to fast for salvation. He faced trial after hundreds of bodies were exhumed.",
-      "published": "Mon, 19 Oct 2026 21:57:02 +0000",
+      "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
+      "link": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
+      "description": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "published": "Tue, 20 Oct 2026 16:02:03 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Allen considers retirement after NI Open exit",
+      "link": "https://www.bbc.co.uk/sport/snooker/articles/cmn8w3zl0z4po?at_medium=RSS&at_campaign=rss",
+      "description": "Mark Allen says that retiring from snooker is \"something I have been contemplating for a while\" following his 4-2 loss to Jordan Brown in the Northern Ireland Open.",
+      "published": "Tue, 20 Oct 2026 15:55:57 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Harry says he wants to 'reconcile' with his family",
+      "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+      "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
+      "published": "Tue, 20 Oct 2026 15:49:54 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+      "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+      "published": "Tue, 20 Oct 2026 15:32:36 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Immersive Beatles museum described as 'like Graceland or Dollywood' to open in 2028",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv555ew6lo?at_medium=RSS&at_campaign=rss",
+      "description": "The surviving Beatles have welcomed plans for an immersive visitor experience in Liverpool.",
+      "published": "Tue, 20 Oct 2026 14:58:48 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "14 Dead After Gold Mine Collapses in Colombia",
+      "link": "https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html",
+      "description": "The mine is among a growing number of small-scale, unlicensed operations in Colombia that are fueled by the metal’s rising global price.",
+      "published": "Tue, 20 Oct 2026 14:51:18 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Italy Faces Parallel Protests in the North and South",
-      "link": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
-      "description": "Protests by young people in northern cities ended in riots as farmers and truckers in the south, angered by high gas prices, stopped commercial traffic.",
-      "published": "Mon, 19 Oct 2026 21:55:10 +0000",
+      "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
+      "link": "https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html",
+      "description": "A U.N.-backed force sent to combat gang violence said it was looking for the soldiers, who were in a gang-controlled area when they were attacked.",
+      "published": "Tue, 20 Oct 2026 14:49:55 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
-      "description": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
-      "published": "Mon, 19 Oct 2026 21:34:06 GMT",
+      "title": "Student who stabbed housemate 30 times admits murder",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
+      "description": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder.",
+      "published": "Tue, 20 Oct 2026 14:35:14 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Spurs beat Coventry to earn first league win of the season",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
-      "description": "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
-      "published": "Mon, 19 Oct 2026 21:33:07 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Watch: Clean up begins after French riots but police remain",
-      "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-      "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
-      "published": "Mon, 19 Oct 2026 21:30:08 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "description": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
-      "published": "Mon, 19 Oct 2026 21:30:06 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "published": "Mon, 19 Oct 2026 21:14:53 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "published": "Mon, 19 Oct 2026 21:12:30 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Maddison shines on return - Tottenham v Coventry ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
-      "description": "How Spurs and Coventry City's players rated following their Premier League match.",
-      "published": "Mon, 19 Oct 2026 21:05:28 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-      "description": "The two top tennis pros married in 2021 and have one child together.",
-      "published": "Mon, 19 Oct 2026 21:02:33 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "published": "Mon, 19 Oct 2026 20:49:00 GMT",
-      "source": "feeds.bbci.co.uk"
+      "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+      "link": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
+      "description": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.",
+      "published": "Tue, 20 Oct 2026 14:28:29 +0000",
+      "source": "rss.nytimes.com"
     }
   ]
 }
