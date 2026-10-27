@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T03:03:52.385394+00:00",
+  "updated_at": "2026-10-27T03:02:57.323718+00:00",
   "articles": [
     {
       "title": "Download now",
@@ -16,17 +16,101 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-      "published": "Sun, 25 Oct 2026 23:44:34 GMT",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "description": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "published": "Tue, 27 Oct 2026 02:43:25 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "published": "Tue, 27 Oct 2026 02:40:17 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+      "description": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
+      "published": "Tue, 27 Oct 2026 01:59:55 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "published": "Tue, 27 Oct 2026 01:57:48 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "description": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "published": "Tue, 27 Oct 2026 01:48:04 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "description": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+      "published": "Tue, 27 Oct 2026 01:34:24 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "My husband's death was hard enough - then came the admin",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g19vvmp59o?at_medium=RSS&at_campaign=rss",
+      "description": "Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\".",
+      "published": "Tue, 27 Oct 2026 01:26:18 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+      "description": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan.",
+      "published": "Tue, 27 Oct 2026 01:22:53 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "The Papers: 'England's golden boy' Kane and 'Time to pay fair'",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dw6rn024vo?at_medium=RSS&at_campaign=rss",
+      "description": "Many of the papers consider what will be in the Budget and praise Harry Kane for his Ballon d'Or win.",
+      "published": "Tue, 27 Oct 2026 01:00:02 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+      "description": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+      "published": "Tue, 27 Oct 2026 00:45:26 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "description": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "published": "Tue, 27 Oct 2026 00:31:11 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Macklemore begins Free Palestine tour after Ed Sheeran fallout",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgl82nm43po?at_medium=RSS&at_campaign=rss",
+      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "published": "Tue, 27 Oct 2026 00:11:27 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "description": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "published": "Tue, 27 Oct 2026 00:01:00 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
       "title": "The presidential election in Brazil is a test of Trump’s power as a kingmaker.",
       "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
       "description": "",
-      "published": "Sun, 25 Oct 2026 23:41:49 +0000",
+      "published": "Sun, 25 Oct 2026 23:41:50 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -37,32 +121,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-      "description": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-      "published": "Sun, 25 Oct 2026 23:33:19 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "published": "Sun, 25 Oct 2026 23:33:14 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "The future of the Amazon rainforest could depend on who wins.",
       "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
       "description": "",
       "published": "Sun, 25 Oct 2026 22:40:18 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-      "description": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
-      "published": "Sun, 25 Oct 2026 22:37:36 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Lula has accused Meta of helping his opponent.",
@@ -72,39 +135,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "published": "Sun, 25 Oct 2026 22:11:13 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
-      "link": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
-      "description": "The single is the second posthumous release from Parton - who was of Welsh descent.",
-      "published": "Sun, 25 Oct 2026 21:58:00 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
       "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
       "description": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
       "published": "Sun, 25 Oct 2026 21:39:45 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "What have Man Utd changed to turn around WSL form?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
-      "description": "It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
-      "published": "Sun, 25 Oct 2026 21:38:59 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
-      "published": "Sun, 25 Oct 2026 21:24:21 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "A.I. videos flooded the internet in the run-up to the election.",
@@ -121,55 +156,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Modi’s Plan to Stop India’s Protests",
-      "link": "https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html",
-      "description": "The Indian leader, facing a volatile youth uprising, appears to be deliberately drawing into the fray a political rival he’s beaten before.",
-      "published": "Sun, 25 Oct 2026 20:41:20 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
-      "published": "Sun, 25 Oct 2026 20:00:19 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Liverpool earn first league win at Anfield with victory over Brighton",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
-      "description": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
-      "published": "Sun, 25 Oct 2026 20:00:09 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Sage continues to struggle as Palace lose at home to Newcastle",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
-      "description": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
-      "published": "Sun, 25 Oct 2026 19:59:46 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Hull draw third consecutive home game after being held by Brentford",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
-      "description": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
-      "published": "Sun, 25 Oct 2026 19:59:29 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Sunderland stay bottom after goalless draw with Leeds",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cj75pv5zp95po?at_medium=RSS&at_campaign=rss",
-      "description": "Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light.",
-      "published": "Sun, 25 Oct 2026 19:59:07 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-      "description": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
-      "published": "Sun, 25 Oct 2026 19:53:55 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
       "link": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
       "description": "Americans on hand for the N.F.L.’s first-ever game in France found famous museums closed and shops boarded up.",
@@ -177,46 +163,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
-      "published": "Sun, 25 Oct 2026 19:14:27 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "What’s at Stake in Brazil’s Elections?",
       "link": "https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html",
       "description": "On Sunday, Brazilians will choose between a beleaguered left-wing incumbent and a right-wing challenger. Trade, security and democracy are on the table.",
-      "published": "Sun, 25 Oct 2026 18:49:38 +0000",
+      "published": "Sun, 25 Oct 2026 18:49:39 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
-      "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
-      "published": "Sun, 25 Oct 2026 18:38:17 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Pressure grows on Sage as fans turn on Palace boss",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&at_campaign=rss",
-      "description": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
-      "published": "Sun, 25 Oct 2026 18:36:12 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
-      "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
-      "published": "Sun, 25 Oct 2026 18:13:55 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Board of Deputies of British Jews declares Greens to be racist party",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-      "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-      "published": "Sun, 25 Oct 2026 18:05:17 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
@@ -226,52 +177,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "England lose to Pakistan after improbable last-wicket stand",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
-      "description": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
-      "published": "Sun, 25 Oct 2026 16:34:17 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Italy’s Young Protesters Return to the Streets",
       "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
       "description": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
       "published": "Sun, 25 Oct 2026 15:41:10 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "published": "Sun, 25 Oct 2026 15:32:51 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Couple were celebrating anniversary before Bahamas tragedy",
-      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
-      "description": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
-      "published": "Sun, 25 Oct 2026 14:38:51 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
-      "description": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
-      "published": "Sun, 25 Oct 2026 14:37:53 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "description": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-      "published": "Sun, 25 Oct 2026 14:34:33 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-      "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
-      "description": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
-      "published": "Sun, 25 Oct 2026 13:42:55 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -331,15 +240,8 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Kim Jong-un Makes First Visit to China in Over a Year",
-      "link": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-      "description": "The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.",
-      "published": "Sun, 25 Oct 2026 01:14:39 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "Could A Major Part Of Brexit Be Reversed?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0phhxp0?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phhxp0?at_mid=sulUAQaVXo&at_campaign=Newscast_Could_A_Major_Part_Of_Brexit_Be_Reversed_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Could_A_Major_Part_Of_Brexit_Be_Reversed_news_rail&at_bbc_team=BBC&at_creation=News",
       "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
       "source": "feeds.bbci.co.uk"
@@ -349,6 +251,104 @@
       "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
       "description": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.",
       "published": "Sat, 24 Oct 2026 21:23:15 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+      "description": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
+      "published": "Sat, 24 Oct 2026 19:53:56 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+      "link": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+      "description": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”",
+      "published": "Sat, 24 Oct 2026 16:02:21 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "description": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
+      "published": "Sat, 24 Oct 2026 14:52:06 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
+      "link": "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html",
+      "description": "Ahead of a vote on whether Albertans should remain part of Canada or cast a ballot to leave, the premier managed to alienate people on both sides. What now?",
+      "published": "Sat, 24 Oct 2026 10:00:03 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "How a Small Student Protest Spread Across France",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
+      "description": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
+      "published": "Sat, 24 Oct 2026 09:46:50 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
+      "description": "Brazil’s Supreme Court told the police to seize passport of Mr. Bolsonaro, who lost the presidential election, over his links to an investigation.",
+      "published": "Mon, 26 Oct 2026 23:55:15 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "London City's Putellas wins record-equalling third Ballon d'Or",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+      "description": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+      "published": "Mon, 26 Oct 2026 23:14:39 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
+      "description": "The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.",
+      "published": "Mon, 26 Oct 2026 23:12:02 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+      "description": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+      "published": "Mon, 26 Oct 2026 23:10:59 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
+      "description": "Seeking new elections, María Corina Machado will need to tread carefully to avoid offending the Trump administration, while also asserting her own leadership.",
+      "published": "Mon, 26 Oct 2026 23:09:14 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+      "description": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+      "published": "Mon, 26 Oct 2026 23:03:14 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Lancashire consider Anderson farewell amid fan unrest",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
+      "description": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+      "published": "Mon, 26 Oct 2026 22:58:14 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "description": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+      "published": "Mon, 26 Oct 2026 22:43:44 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Mexico’s Top Election Official Resigns Amid Corruption Scandal",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
+      "description": "Guadalupe Taddei Zavala, the head of the electoral watchdog, stepped down after facing accusations of corruption and influence peddling.",
+      "published": "Mon, 26 Oct 2026 22:33:20 +0000",
       "source": "rss.nytimes.com"
     }
   ]
