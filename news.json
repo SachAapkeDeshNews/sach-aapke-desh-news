@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T03:12:53.777877+00:00",
+  "updated_at": "2026-10-31T03:11:55.498662+00:00",
   "articles": [
     {
       "title": "Download now",
@@ -16,151 +16,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Dutch Zookeeper Dies After Rare Mauling by a Leopard",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/dutch-zookeeper-dead-leopard-netherlands.html",
-      "description": "A woman working with big cats was attacked on Saturday. She died from her injuries on Tuesday, the zoo said.",
-      "published": "Wed, 28 Oct 2026 21:18:10 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Spain Train Crash Kills at Least 68",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
-      "description": "The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.",
-      "published": "Wed, 28 Oct 2026 20:26:04 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Israel’s opposition may not be able to form a government, but it still could control Parliament.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
-      "description": "",
-      "published": "Wed, 28 Oct 2026 18:38:34 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "An Inconclusive Vote Leaves Israelis Pondering an Uncertain Future",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
-      "description": "A day after the election, supporters of Prime Minister Benjamin Netanyahu were relieved he still had a chance to stay in power, while his opponents worried the mixed results could lead to a political stalemate.",
-      "published": "Wed, 28 Oct 2026 18:22:35 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Spain’s Transportation Minister Said Incorrect Instructions Led to Train Crash",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html",
-      "description": "An “inexplicable” decision by traffic control operators sent a train on its way toward another stopped miles in front of it, the minister said.",
-      "published": "Wed, 28 Oct 2026 17:36:08 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
-      "description": "Fernando Seco, 62, said he and others moved at least a dozen wounded passengers from the crash site, using parts of the wreckage as makeshift stretchers.",
-      "published": "Wed, 28 Oct 2026 17:29:30 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-      "description": "One train rear-ended another, sending two carriages down an embankment.",
-      "published": "Wed, 28 Oct 2026 17:27:18 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Netanyahu Didn’t Win Israel’s Election. But He’s Far From Out.",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
-      "description": "Prime Minister Benjamin Netanyahu lost some support from voters, but preliminary results suggest he has multiple ways to remain in power given the country’s fractured politics.",
-      "published": "Wed, 28 Oct 2026 16:34:01 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-      "description": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
-      "published": "Wed, 28 Oct 2026 15:35:10 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
-      "description": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack.",
-      "published": "Wed, 28 Oct 2026 15:26:03 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Tommy Robinson Found Guilty of Harassing 2 UK Journalists",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/tommy-robinson-harassment-verdict-court-uk.html",
-      "description": "The anti-immigrant agitator, whose real name is Stephen Yaxley-Lennon, will be sentenced in December.",
-      "published": "Wed, 28 Oct 2026 15:22:59 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Eisenkot, Netanyahu’s Main Rival in Israel’s Election, Faces a Dilemma",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
-      "description": "To form a government, Israeli opposition leader Gadi Eisenkot needs to either join forces with Arab parties — anathema to many Israelis — or with members of Benjamin Netanyahu’s alliance.",
-      "published": "Wed, 28 Oct 2026 15:20:24 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "4 Takeaways From Israel’s Election",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
-      "description": "Votes are still being counted, and much is in flux. But as the stage was set for bitter talks over forming a government, nearly all sides could face disappointment.",
-      "published": "Wed, 28 Oct 2026 14:10:53 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-      "description": "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.",
-      "published": "Wed, 28 Oct 2026 13:16:35 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "The crash comes months after a fatal accident involving the same train operators.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/the-crash-comes-months-after-a-fatal-accident-involving-the-same-train-operators",
-      "description": "",
-      "published": "Wed, 28 Oct 2026 11:40:51 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "What Israeli Election Results Reveal About the Electorate",
-      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
-      "description": "Some groups stood by Prime Minister Benjamin Netanyahu’s party, but support fell off among others. Turnout was also a striking factor in the election.",
-      "published": "Thu, 29 Oct 2026 23:45:50 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Newly Freed American Describes His Years in Russian Prison",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
-      "description": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
-      "published": "Thu, 29 Oct 2026 23:32:33 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "No Clear Winner in Israel Election, Final Results Show",
-      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-      "description": "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The main opposition bloc, led by Gadi Eisenkot, won 48.",
-      "published": "Thu, 29 Oct 2026 23:07:49 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Hyrox athlete who soiled herself in race says she put others at risk",
-      "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
-      "description": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
-      "published": "Thu, 29 Oct 2026 23:03:39 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
       "link": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
       "description": "The Trump administration is carrying out the most intense pressure campaign on Cuba in decades. The Cuban government says its plan is simply to endure.",
-      "published": "Thu, 29 Oct 2026 22:49:00 +0000",
+      "published": "Thu, 29 Oct 2026 22:49:01 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "PSG score late to hold struggling Man City",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
-      "published": "Thu, 29 Oct 2026 22:40:17 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
@@ -170,88 +30,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "published": "Thu, 29 Oct 2026 22:17:52 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-      "description": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.",
-      "published": "Thu, 29 Oct 2026 22:14:37 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
       "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
       "description": "The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries.",
       "published": "Thu, 29 Oct 2026 21:36:23 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Young athlete and former minister among victims of Spain train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-      "description": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
-      "published": "Thu, 29 Oct 2026 21:33:35 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
-      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-      "description": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
-      "published": "Thu, 29 Oct 2026 20:50:25 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
-      "link": "https://www.bbc.co.uk/news/articles/c893zev54341o?at_medium=RSS&at_campaign=rss",
-      "description": "As the King left the Bahamas his spokesman said the islands had \"a special place in the King's heart\".",
-      "published": "Thu, 29 Oct 2026 20:35:05 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "The Perils of Glittering Skylines",
-      "link": "https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html",
-      "description": "Glass skyscrapers are transforming cities, but do they make sense in a world that’s getting hotter?",
-      "published": "Thu, 29 Oct 2026 20:31:15 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Zverev seals world number one spot after win",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss",
-      "description": "Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.",
-      "published": "Thu, 29 Oct 2026 20:25:37 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "published": "Thu, 29 Oct 2026 20:21:54 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
-      "description": "A train crew member shows \"sheer courage and bravery in seeking to save lives\", a court hears.",
-      "published": "Thu, 29 Oct 2026 20:02:27 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Grealish dropped over 'breach of club discipline' - what now?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss",
-      "description": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\".",
-      "published": "Thu, 29 Oct 2026 19:31:36 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&at_campaign=rss",
-      "description": "Kevin T has been charged with murder and attempted murder in connection with a terrorist enterprise.",
-      "published": "Thu, 29 Oct 2026 19:19:23 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
@@ -268,46 +51,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
-      "link": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
-      "description": "More than a week after the first case was reported in Africa’s most populous nation, pressing questions about the infection remain unanswered.",
-      "published": "Thu, 29 Oct 2026 18:14:23 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "What are the government's options for reducing welfare spending?",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.",
-      "published": "Thu, 29 Oct 2026 17:59:57 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Met refers itself to police watchdog over letter about Meghan's father",
-      "link": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
-      "description": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.",
-      "published": "Thu, 29 Oct 2026 17:58:18 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Weekly quiz: What was wrong with the Spotify listing of Dolly Parton's Jolene?",
-      "link": "https://www.bbc.co.uk/news/articles/cm15jdj7xzj5o?at_medium=RSS&at_campaign=rss",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?",
-      "published": "Thu, 29 Oct 2026 17:46:50 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "U.S. Hits Rwanda With New Sanctions Over a Conflict Trump Declared ‘Ended’",
       "link": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
       "description": "The Treasury Department accused Rwanda of undermining a U.S.-brokered peace agreement by supporting a rebel group in the eastern Democratic Republic of Congo.",
       "published": "Thu, 29 Oct 2026 17:13:48 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Hundreds of GP practices lose online services after collapse of tech firm",
-      "link": "https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&at_campaign=rss",
-      "description": "It will cause huge disruption in some parts of England and Wales, say GP leaders.",
-      "published": "Thu, 29 Oct 2026 17:13:40 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "How Israel’s Election Could End",
@@ -324,20 +72,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Careless dismissals give Australia route to series win in South Africa",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
-      "description": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
-      "published": "Thu, 29 Oct 2026 16:53:40 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Duckett and Dawson deliver in England's consolation win",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
-      "description": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
-      "published": "Thu, 29 Oct 2026 16:37:15 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "State Dept. to Shift Millions in Contraception Funding to Cover Energy Costs",
       "link": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
       "description": "In a memo, the department told lawmakers it was redirecting up to $125 million in foreign aid, including nearly $49 million that Congress appropriated for family planning programs in low-income countries.",
@@ -350,6 +84,272 @@
       "description": "Haiti is in the throes of debilitating gang violence, which has kept officials from organizing an election to pick a new president.",
       "published": "Thu, 29 Oct 2026 15:29:56 +0000",
       "source": "rss.nytimes.com"
+    },
+    {
+      "title": "How André Janones Helped Turbocharge Lula’s Comeback in Brazil’s Election",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
+      "description": "With street talk and tactics from the far-right’s playbook, André Janones used a WhatsApp channel to help organize millions of Brazilians online.",
+      "published": "Thu, 29 Oct 2026 14:44:21 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
+      "description": "After a high-speed collision near Toledo, Spain, killed at least 69 people, rail safety experts said the rough consensus that it is best to sit in the middle of a train has its limits.",
+      "published": "Thu, 29 Oct 2026 14:33:10 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "A Cease-Fire Melania Trump Announced Gives a City Brief Calm",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
+      "description": "A rare localized cease-fire announced by the first lady offered a brief respite for Kherson, Ukraine, where Russian drones and artillery have long terrorized civilians.",
+      "published": "Thu, 29 Oct 2026 14:08:32 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Suspect in France Shootings Said He Targeted Muslims and Africans, Prosecutor Says",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
+      "description": "The suspect, identified only as Kévin T., admitted to planning the attacks near Paris last week, the prosecutor said. One person was killed and seven wounded.",
+      "published": "Thu, 29 Oct 2026 14:05:08 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Russian Strike on Ukrainian Train Station Kills 14",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
+      "description": "A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire.",
+      "published": "Thu, 29 Oct 2026 13:45:35 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+      "description": "Mr. Cárdenas, the only son of a Mexican president, never won the office but became a leading figure in the country’s democratic transformation.",
+      "published": "Thu, 29 Oct 2026 12:44:46 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+      "description": "Karl Bushby has walked 31,000 miles, crossing some of the world’s harshest landscapes. He plans to reach his mother’s house in England next week.",
+      "published": "Thu, 29 Oct 2026 12:12:48 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
+      "description": "An Estonian addict could barely keep pace with the new drugs flooding the market. His terrifying accounts of the cruel toll they took on his body held his country in its grip.",
+      "published": "Thu, 29 Oct 2026 11:53:48 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "How Arab Voters in Israel Shifted the Political Landscape",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
+      "description": "The Arab parties have long been kept on the political sidelines. But stunning turnout by their supporters makes the Arab minority an Israeli political reality that cannot be ignored.",
+      "published": "Thu, 29 Oct 2026 11:44:03 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
+      "link": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
+      "description": "John Lee, the city’s chief executive, said his housing secretary would step down, but he vehemently defended the government.",
+      "published": "Thu, 29 Oct 2026 11:34:49 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "How Netanyahu Used Fear, Again, to Win Votes in the Israel Elections",
+      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
+      "description": "Despite years of political baggage, the Israeli prime minister outperformed expectations, and his rivals, by playing on Jewish voters’ fears of Arab political power and potential security threats.",
+      "published": "Thu, 29 Oct 2026 10:29:01 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "In Marseille, Macron Confronts a Potent Mix of France’s Problems",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
+      "description": "France’s second city, five years into a presidential development plan, is grappling with the social strains that have fueled protests across the country.",
+      "published": "Thu, 29 Oct 2026 09:03:02 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "What to Make of Israel’s Ambiguous Election",
+      "link": "https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html",
+      "description": "Neither Benjamin Netanyahu nor his rivals won a majority, leaving Arab lawmakers as potential kingmakers in the new Parliament.",
+      "published": "Thu, 29 Oct 2026 05:04:25 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+      "description": "In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.",
+      "published": "Thu, 29 Oct 2026 02:15:20 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "published": "Sat, 31 Oct 2026 02:39:25 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Celebrity Traitors comes to a climax in nail-biting final",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
+      "description": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
+      "published": "Sat, 31 Oct 2026 02:18:59 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnp91pzv8o?at_medium=RSS&at_campaign=rss",
+      "description": "The theft of billions of dollars from Binance, the world's largest cryptocurrency exchange, makes Saturday's front pages.",
+      "published": "Sat, 31 Oct 2026 01:54:31 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "description": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "published": "Sat, 31 Oct 2026 01:32:33 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Global nature talks reach deal but money remains an issue",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "published": "Sat, 31 Oct 2026 01:27:05 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "published": "Sat, 31 Oct 2026 01:11:43 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
+      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+      "description": "The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.",
+      "published": "Sat, 31 Oct 2026 00:51:38 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "published": "Sat, 31 Oct 2026 00:40:43 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Verstappen says Lawson 'not very smart' after collision in Mexico practice",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+      "description": "Max Verstappen accuses Liam Lawson of \"not very smart behaviour\" after the two collided in Friday practice at the Mexico City Grand Prix.",
+      "published": "Sat, 31 Oct 2026 00:38:31 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+      "description": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+      "published": "Sat, 31 Oct 2026 00:16:03 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "UK could see 10 days without rain after 'wettest week in two years'",
+      "link": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+      "description": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
+      "published": "Sat, 31 Oct 2026 00:06:31 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss",
+      "description": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
+      "published": "Sat, 31 Oct 2026 00:04:06 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Why MPs keep talking about an early election despite Burnham's denials",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
+      "published": "Sat, 31 Oct 2026 00:00:15 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Sherrock upsets Littler to claim £501,000 prize",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo?at_medium=RSS&at_campaign=rss",
+      "description": "Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.",
+      "published": "Fri, 30 Oct 2026 23:38:06 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+      "description": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.",
+      "published": "Fri, 30 Oct 2026 23:27:46 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+      "description": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "published": "Fri, 30 Oct 2026 23:26:16 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "England see off USA to return to winning ways",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq98zrj5dj6ro?at_medium=RSS&at_campaign=rss",
+      "description": "England's Red Roses return to winning ways, but without entirely vanquishing doubts over their position at the top of the women's game, as they see off the United States.",
+      "published": "Fri, 30 Oct 2026 23:15:38 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Villa to sue Carragher over 'unacceptable insults'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss",
+      "description": "Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as \"unacceptable insults\".",
+      "published": "Fri, 30 Oct 2026 23:05:45 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "King visits Guyanese slave rebellion site on Caribbean tour",
+      "link": "https://www.bbc.co.uk/news/articles/c693zxw11x1wo?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of slaves were killed by colonial leaders in the Demerera rebellion of 1823, with many survivors executed.",
+      "published": "Fri, 30 Oct 2026 22:24:03 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "published": "Fri, 30 Oct 2026 22:11:52 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "published": "Fri, 30 Oct 2026 21:13:14 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
+      "link": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+      "description": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
+      "published": "Fri, 30 Oct 2026 21:08:01 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
+      "link": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
+      "description": "The day that changed modern China also taught me how to recognize true courage.",
+      "published": "Fri, 30 Oct 2026 21:04:43 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "published": "Fri, 30 Oct 2026 20:41:51 GMT",
+      "source": "feeds.bbci.co.uk"
     }
   ]
 }
