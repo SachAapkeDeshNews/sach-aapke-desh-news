@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:03:34.130024+00:00",
+  "updated_at": "2026-11-10T10:12:21.664545+00:00",
   "articles": [
     {
       "title": "Download now",
@@ -9,45 +9,283 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget",
-      "link": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
-      "description": "The prime minister’s second budget repeatedly stresses diversifying Canada’s economy away from the United States.",
-      "published": "Thu, 05 Nov 2026 21:30:46 +0000",
+      "title": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
+      "description": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say.",
+      "published": "Tue, 10 Nov 2026 10:04:04 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
-      "description": "As Klaus-Michael Kühne’s business became a global force in container shipping, he resisted demands to document its wartime activities. He was 89.",
-      "published": "Thu, 05 Nov 2026 21:16:14 +0000",
+      "title": "As Fresh Air Becomes a Luxury, Many Indonesians Turn on Their Leader",
+      "link": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
+      "description": "In Indonesia, support for President Prabowo Subianto has collapsed as his government has failed to contain raging wildfires, compounding quality-of-life woes.",
+      "published": "Tue, 10 Nov 2026 10:03:56 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
-      "link": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
-      "description": "From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
-      "published": "Thu, 05 Nov 2026 19:56:52 +0000",
+      "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+      "description": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold.",
+      "published": "Tue, 10 Nov 2026 10:03:13 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
-      "description": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
-      "published": "Thu, 05 Nov 2026 19:39:19 +0000",
+      "title": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
+      "description": "Francis never returned to his home country after becoming pope, but the new pontiff will still be confronted with the overwhelming presence of his predecessor.",
+      "published": "Tue, 10 Nov 2026 10:02:52 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Are There More Russell Brands In The Media Industry?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pkvzl8?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
-      "published": "Sun, 25 Oct 2026 00:00:00 GMT",
+      "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+      "description": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
+      "published": "Tue, 10 Nov 2026 10:01:42 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Haaretz Expands US Presence Amid Israel’s Move to the Right",
+      "link": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
+      "description": "Haaretz has more than doubled the size of its American bureau, including hiring correspondents to cover beats like national politics and young American Jews.",
+      "published": "Tue, 10 Nov 2026 10:01:08 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "description": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "published": "Tue, 10 Nov 2026 09:57:49 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Norris sparkles in Sao Paulo despite firework mishap",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
-      "description": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
-      "published": "Sun, 08 Nov 2026 23:44:53 GMT",
+      "title": "Meghan joins Harry in Brussels in first public appearance since father's arrest",
+      "link": "https://www.bbc.co.uk/news/articles/cq3989418n78o?at_medium=RSS&at_campaign=rss",
+      "description": "The Duchess of Sussex had pulled out of giving a speech with Prince Harry at the event promoting children's online safety.",
+      "published": "Tue, 10 Nov 2026 09:50:03 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "published": "Tue, 10 Nov 2026 09:40:31 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Watch: Man smashes Chinese government building with excavator",
+      "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+      "description": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
+      "published": "Tue, 10 Nov 2026 09:37:15 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+      "description": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+      "published": "Tue, 10 Nov 2026 09:35:15 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "US military aircraft leave second UK base, report says",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
+      "description": "This comes weeks after the US withdrew its bombers from RAF Fairford airbase in September.",
+      "published": "Tue, 10 Nov 2026 09:32:31 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "description": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
+      "published": "Tue, 10 Nov 2026 09:26:20 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+      "description": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+      "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "description": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "published": "Tue, 10 Nov 2026 09:23:55 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "description": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+      "published": "Tue, 10 Nov 2026 09:07:00 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+      "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+      "description": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+      "published": "Tue, 10 Nov 2026 09:00:49 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Wenger considers standing against Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
+      "description": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
+      "published": "Tue, 10 Nov 2026 08:53:26 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Hundreds more offenders leaving jail under early release scheme",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+      "description": "At least 1,350 offenders have been released from jail early under the scheme so far.",
+      "published": "Tue, 10 Nov 2026 08:44:59 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Australia fans 'can't trust what's real' - Clarke wants ball-tampering investigation reopened",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
+      "description": "Former Australia captain Michael Clarke says fans of the national side \"can't trust what's real\" and has called for the investigation into the 2018 Australia ball-tampering scandal to be reopened.",
+      "published": "Tue, 10 Nov 2026 08:34:25 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Vote for your greatest all-British boxing fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cq5yn477mn51o?at_medium=RSS&at_campaign=rss",
+      "description": "From bitter rivalries and controversial decisions to dramatic knockouts, we look back at five unforgettable all-British boxing contests and ask you to vote for the greatest.",
+      "published": "Tue, 10 Nov 2026 08:30:49 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "published": "Tue, 10 Nov 2026 08:23:21 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "How good is Hamilton and how long can he stay in F1? - Q&A",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmp3g005zyxko?at_medium=RSS&at_campaign=rss",
+      "description": "BBC F1 correspondent Andrew Benson answers your latest questions after the Sao Paulo Grand Prix.",
+      "published": "Tue, 10 Nov 2026 08:00:49 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Saudi Arabia Sentences Mother to 100 Lashes for Birth Outside Marriage",
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+      "description": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils.",
+      "published": "Tue, 10 Nov 2026 07:27:41 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+      "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+      "published": "Tue, 10 Nov 2026 06:24:50 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
+      "link": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o?at_medium=RSS&at_campaign=rss",
+      "description": "Stephanie Case makes history by becoming the first woman to complete extreme 100-mile race in Antarctica.",
+      "published": "Tue, 10 Nov 2026 06:20:04 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Divorced after five days: 'My sham husband made me believe he loved me'",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34mdlrp86o?at_medium=RSS&at_campaign=rss",
+      "description": "Jane, who met her husband on a dating app, says he dropped the bombshell news in a text message.",
+      "published": "Tue, 10 Nov 2026 06:13:46 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "The Nvidia Affair",
+      "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+      "description": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
+      "published": "Tue, 10 Nov 2026 05:43:35 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+      "description": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+      "published": "Tue, 10 Nov 2026 05:38:53 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "The Papers: 'Brand jailed for 10 years' and 'shamed star caged'",
+      "link": "https://www.bbc.co.uk/news/articles/c69vzv7llen7o?at_medium=RSS&at_campaign=rss",
+      "description": "Russell Brand's sentencing after being convicted of rape and sexual assault dominates Tuesday's front pages.",
+      "published": "Tue, 10 Nov 2026 04:45:06 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+      "description": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
+      "published": "Tue, 10 Nov 2026 03:55:42 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+      "description": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+      "published": "Tue, 10 Nov 2026 03:39:35 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Jemima Goldsmith accuses Russell Brand of violence and abuse against her",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+      "description": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while they were in a relationship.",
+      "published": "Tue, 10 Nov 2026 02:59:42 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "'Cruise for life' ship seized in Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+      "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
+      "published": "Tue, 10 Nov 2026 01:49:06 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "published": "Tue, 10 Nov 2026 01:38:49 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "I took Vinted to court to get my money back",
+      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+      "published": "Tue, 10 Nov 2026 00:27:37 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "My life as the UK's youngest lighthouse keeper",
+      "link": "https://www.bbc.co.uk/news/videos/cr3elxyq7x3zo?at_medium=RSS&at_campaign=rss",
+      "description": "Jeri Cormack, 28, looks after three historic lighthouses in Caithness on the edge of the British mainland.",
+      "published": "Tue, 10 Nov 2026 00:24:30 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "published": "Tue, 10 Nov 2026 00:14:03 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "published": "Tue, 10 Nov 2026 00:08:28 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "The Most Expensive Affair In History?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm3rwk?at_mid=n3UOo1rZFF&at_campaign=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_bbc_team=BBC&at_creation=News",
+      "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+      "published": "Sun, 25 Oct 2026 00:00:00 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -72,13 +310,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
-      "description": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
-      "published": "Sun, 08 Nov 2026 21:50:05 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
       "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
       "description": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
@@ -93,38 +324,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "published": "Sun, 08 Nov 2026 21:37:36 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Maya Jama steps down as host of reality TV show Love Island",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-      "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
-      "published": "Sun, 08 Nov 2026 21:19:48 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Secondary schools told to stop teaching GCSEs before Year 10",
-      "link": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
-      "description": "The government says pupils in Year 7 to 9 should have \"richer, more engaging\" learning than preparing for GCSEs.",
-      "published": "Sun, 08 Nov 2026 19:00:32 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
       "link": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
       "description": "The National Forest and Wildlife Service of Peru said three people had tried to smuggle the tarantulas, which included a threatened species, into Germany.",
       "published": "Sun, 08 Nov 2026 18:33:16 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-      "description": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
-      "published": "Sun, 08 Nov 2026 17:31:14 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -147,209 +350,6 @@
       "description": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council.",
       "published": "Sun, 08 Nov 2026 14:33:49 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
-      "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-      "description": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.",
-      "published": "Sun, 08 Nov 2026 13:14:09 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-      "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-      "description": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
-      "published": "Sun, 08 Nov 2026 10:01:50 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-      "description": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
-      "published": "Sun, 08 Nov 2026 09:41:56 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-      "description": "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.",
-      "published": "Sun, 08 Nov 2026 05:55:55 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "South Africa’s Politics May Never Be the Same Again",
-      "link": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-      "description": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”",
-      "published": "Sun, 08 Nov 2026 05:01:24 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "The Small-Town Colossus Faces the End of the Road",
-      "link": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-      "description": "Giant roadside attractions have helped put hundreds of communities on the map. What happens when their novelty fades and costs pile up?",
-      "published": "Sun, 08 Nov 2026 05:01:11 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Emma Thompson, Kate Winslet and Hugh Grant star in a 1995 adaptation",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&at_campaign=Sense_and_Sensibility&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0027nc1&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sense_and_Sensibility&at_bbc_team=BBC",
-      "description": "Elinor and Marianne Dashwood are thrown into sudden hardship on the death of their father.",
-      "published": "Sat, 31 Oct 2026 15:35:30 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-      "description": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
-      "published": "Sat, 07 Nov 2026 23:36:18 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
-      "description": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
-      "published": "Sat, 07 Nov 2026 22:05:57 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "description": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
-      "published": "Sat, 07 Nov 2026 21:52:04 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-      "description": "The crowds were smaller on Saturday than in previous weeks’ demonstrations, but the animating sense of grievance remained.",
-      "published": "Sat, 07 Nov 2026 21:00:19 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
-      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-      "description": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
-      "published": "Sat, 07 Nov 2026 20:17:15 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
-      "link": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
-      "description": "At least 48 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
-      "published": "Sat, 07 Nov 2026 18:49:33 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-      "description": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
-      "published": "Sat, 07 Nov 2026 18:17:34 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
-      "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-      "description": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.",
-      "published": "Sat, 07 Nov 2026 13:13:40 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
-      "link": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
-      "description": "While U.S. voters largely oppose the trade war with Canada, many Democrats and their supporters have protectionist leanings.",
-      "published": "Sat, 07 Nov 2026 11:00:07 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
-      "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
-      "description": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.",
-      "published": "Mon, 09 Nov 2026 10:00:43 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-      "description": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
-      "published": "Mon, 09 Nov 2026 09:59:52 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Thick fog disrupts morning travel as yellow weather warnings in effect",
-      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-      "description": "Fog is causing disruption on Monday morning amid Met Office yellow weather warnings for many across England, Wales and Northern Ireland.",
-      "published": "Mon, 09 Nov 2026 09:37:34 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-      "description": "At least nine people were dead after shootings in Krakow and another town. The suspected gunman died in the hospital and his motive remains unclear.",
-      "published": "Mon, 09 Nov 2026 09:24:53 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Government's EV targets expected to be reduced this week",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-      "published": "Mon, 09 Nov 2026 09:24:03 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Khawaja 100% accurate on ball-tampering - Warner",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
-      "description": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering.",
-      "published": "Mon, 09 Nov 2026 09:21:09 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
-      "description": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
-      "published": "Mon, 09 Nov 2026 08:57:34 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "description": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-      "published": "Mon, 09 Nov 2026 08:49:17 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "description": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-      "published": "Mon, 09 Nov 2026 08:16:57 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Why Winning Big Matters",
-      "link": "https://www.nytimes.com/2026/11/08/world/election-win-pete-hegseth-poland.html",
-      "description": "The midterm elections in the United States and recent votes in Europe show how blowout victories can make results impossible to deny.",
-      "published": "Mon, 09 Nov 2026 08:05:16 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
-      "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
-      "description": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
-      "published": "Mon, 09 Nov 2026 07:30:12 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Sports Personality of the Year returns - with five awards decided by public",
-      "link": "https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sports Personality of the Year will be held on 13 December - and audiences will have more influence than ever over the awards.",
-      "published": "Mon, 09 Nov 2026 07:30:05 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "description": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-      "published": "Mon, 09 Nov 2026 07:26:09 GMT",
-      "source": "feeds.bbci.co.uk"
     }
   ]
 }
