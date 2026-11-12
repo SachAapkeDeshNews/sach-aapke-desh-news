@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T09:42:19.461804+00:00",
+  "updated_at": "2026-11-12T10:03:43.066661+00:00",
   "articles": [
     {
       "title": "Download now",
@@ -9,6 +9,111 @@
       "source": "feeds.bbci.co.uk"
     },
     {
+      "title": "British soldier charged with rape of woman serving in Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/cvglr28re6n9o?at_medium=RSS&at_campaign=rss",
+      "description": "L/Cpl Nicholas Horne, serving in the Highlanders, was arrested and charged in October.",
+      "published": "Wed, 11 Nov 2026 22:34:37 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+      "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
+      "published": "Wed, 11 Nov 2026 22:26:18 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+      "published": "Wed, 11 Nov 2026 21:43:35 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
+      "description": "President Trump is seeking damages from the British broadcaster over a documentary it conceded was misleadingly edited.",
+      "published": "Wed, 11 Nov 2026 21:14:47 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+      "description": "The death of Alexander Darchiev was announced by Russia’s foreign ministry. He was appointed to his post in Washington in 2025, as relations between the Kremlin and the White House warmed.",
+      "published": "Wed, 11 Nov 2026 21:14:46 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
+      "description": "Video showed demonstrators from a pro-Palestinian protest throwing projectiles at former President Joseph R. Biden Jr. after he attended an event at Trinity College Dublin on Tuesday.",
+      "published": "Wed, 11 Nov 2026 19:34:11 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+      "description": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
+      "published": "Wed, 11 Nov 2026 18:02:52 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Kenya Starts Countdown to End of Ebola Outbreak",
+      "link": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+      "description": "The milestone is further evidence that African countries have mostly succeeded in preventing community transmission and isolating the small number of cases that have come in from Congo.",
+      "published": "Wed, 11 Nov 2026 17:50:39 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+      "description": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.",
+      "published": "Wed, 11 Nov 2026 17:40:41 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
+      "link": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+      "description": "Pope Leo spent nearly two decades in Peru, rising to bishop and becoming a citizen. But many Peruvians have turned to evangelical churches, seeking a more expressive and direct connection to God.",
+      "published": "Wed, 11 Nov 2026 15:10:05 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
+      "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
+      "description": "In a memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls political battles and the killings of family members.",
+      "published": "Wed, 11 Nov 2026 14:41:22 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+      "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+      "description": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
+      "published": "Wed, 11 Nov 2026 13:41:53 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+      "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
+      "published": "Wed, 11 Nov 2026 12:58:17 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
+      "link": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
+      "description": "“It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.",
+      "published": "Wed, 11 Nov 2026 12:21:43 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
+      "description": "The Orléans Fine Arts Museum is on a quest to recover hundreds of works stolen during World War II — and the director wants your help.",
+      "published": "Wed, 11 Nov 2026 10:03:50 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
       "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
       "description": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.",
@@ -16,102 +121,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-      "published": "Wed, 11 Nov 2026 09:28:36 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
-      "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
-      "description": "In a new memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls her political battles and the assassinations of her husband and mother-in-law.",
-      "published": "Wed, 11 Nov 2026 09:23:20 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Man Utd open talks with Pochettino about replacing Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
-      "published": "Wed, 11 Nov 2026 09:11:28 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Governments 'asleep at the wheel' over social care, says head of review",
-      "link": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
-      "description": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
-      "published": "Wed, 11 Nov 2026 09:08:48 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Tearful Smith switches allegiance to the Netherlands",
-      "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
-      "description": "South Africa's most decorated Olympian Tatjana Smith was in tears as she announced that she has switched her international allegiance to the Netherlands.",
-      "published": "Wed, 11 Nov 2026 08:19:59 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "NI can draw on strong club form in key window",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wz2kg0lno?at_medium=RSS&at_campaign=rss",
-      "description": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
-      "published": "Wed, 11 Nov 2026 08:09:02 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Sales of traditional toys rise as public debate around screen time grows",
-      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-      "published": "Wed, 11 Nov 2026 07:52:05 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
       "link": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
       "description": "Wildlife authorities said evidence, including animal DNA, conclusively linked a sow and her three cubs to the deaths of two women along a hiking trail in British Columbia.",
       "published": "Wed, 11 Nov 2026 07:32:18 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Prince George's artwork featured in Country Life magazine",
-      "link": "https://www.bbc.co.uk/news/articles/c6q8n8n835vqo?at_medium=RSS&at_campaign=rss",
-      "description": "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine.",
-      "published": "Wed, 11 Nov 2026 07:30:58 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Temperatures to dip to -5C as first cold health alerts of season issued",
-      "link": "https://www.bbc.co.uk/weather/articles/crq5n5148p7po?at_medium=RSS&at_campaign=rss",
-      "description": "The most widespread frost of the season so far is forecast for many parts of the country. BBC Weather's Tomasz Schafernaker reports.",
-      "published": "Wed, 11 Nov 2026 07:08:32 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "A different kind of drama - the visually-impaired actors creating pictures through sound",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d66n74dp4o?at_medium=RSS&at_campaign=rss",
-      "description": "An audio drama workshop has brought blind and partially-sighted people together to create a new play.",
-      "published": "Wed, 11 Nov 2026 06:25:32 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Does Pickford finally face serious competition for his England place?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
-      "description": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-      "published": "Wed, 11 Nov 2026 06:24:28 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Why is Scotland's housing shortage getting worse?",
-      "link": "https://www.bbc.co.uk/news/articles/cr5yn4x5q3jxo?at_medium=RSS&at_campaign=rss",
-      "description": "Homelessness has hit record levels and the cost of renting or buying property has continued to rise.",
-      "published": "Wed, 11 Nov 2026 06:11:51 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Acquitted 'China spy' tells BBC: I was fall guy for security services but also naive",
-      "link": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands of messages seen by BBC show how a Chinese official sought details of sensitive political matters.",
-      "published": "Wed, 11 Nov 2026 06:00:21 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "No Good Choices on Iran",
@@ -122,17 +136,10 @@
     },
     {
       "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
-      "link": "https://www.nytimes.com/2026/11/11/world/africa/on-dakars-packed-beaches-africa-welcomes-its-first-youth-olympics.html",
+      "link": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
       "description": "The 2026 Youth Olympic Games are taking place in Senegal, where the beaches and streets are teeming with sports fans and fitness fanatics.",
       "published": "Wed, 11 Nov 2026 05:00:21 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
-      "description": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
-      "published": "Wed, 11 Nov 2026 04:03:25 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
@@ -149,102 +156,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "published": "Wed, 11 Nov 2026 03:26:42 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "published": "Wed, 11 Nov 2026 02:41:16 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "The Papers: 'David Walliams accused' and 'Named & shamed'",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg233enxjro?at_medium=RSS&at_campaign=rss",
-      "description": "Sexual misconduct allegations against actor David Walliams, which he denies, dominate Wednesday's front pages.",
-      "published": "Wed, 11 Nov 2026 02:14:18 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-      "description": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-      "published": "Wed, 11 Nov 2026 01:18:09 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
-      "link": "https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
-      "description": "The inquiry's lead barrister says photos of people lying on their backs with shots to the head may be evidence of possible war crimes.",
-      "published": "Wed, 11 Nov 2026 01:11:30 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "published": "Wed, 11 Nov 2026 01:01:20 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-      "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
-      "description": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
-      "published": "Wed, 11 Nov 2026 00:35:14 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Students passing university assessments in minutes using AI, regulator warns",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
-      "description": "The Office for Students says students can frequently use AI \"in ways that cannot be reliably detected\".",
-      "published": "Wed, 11 Nov 2026 00:21:21 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "published": "Wed, 11 Nov 2026 00:18:07 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-      "description": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-      "published": "Wed, 11 Nov 2026 00:17:42 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
       "link": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
       "description": "The Duchess of Sussex accompanied her husband, Prince Harry, in Brussels at an event about online safety for children.",
-      "published": "Tue, 10 Nov 2026 23:21:31 +0000",
+      "published": "Tue, 10 Nov 2026 23:21:32 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
-      "description": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
-      "published": "Tue, 10 Nov 2026 22:41:01 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
-      "description": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
-      "published": "Tue, 10 Nov 2026 22:24:05 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Why does Australia want Brits to swap Sydney for the outback?",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
-      "description": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
-      "published": "Tue, 10 Nov 2026 21:17:00 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
@@ -252,20 +168,6 @@
       "description": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.",
       "published": "Tue, 10 Nov 2026 20:53:41 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-      "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-      "published": "Tue, 10 Nov 2026 20:20:04 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "What we know about the allegations against David Walliams",
-      "link": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
-      "description": "The author and comedian recently lost a court battle trying to block publication of the allegations.",
-      "published": "Tue, 10 Nov 2026 19:35:17 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed",
@@ -287,34 +189,6 @@
       "description": "At least four people from one family died and thousands lost their shelters when a storm battered overcrowded tent camps. Israel says Gaza will not be rebuilt until Hamas disarms.",
       "published": "Tue, 10 Nov 2026 19:24:50 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-      "description": "Nine people were dead after shootings in Krakow and another town. The gunman died in the hospital and his motive remains unclear.",
-      "published": "Tue, 10 Nov 2026 18:59:21 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
-      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "description": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
-      "published": "Tue, 10 Nov 2026 18:35:35 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
-      "link": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
-      "description": "“It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.",
-      "published": "Tue, 10 Nov 2026 18:34:55 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
-      "published": "Tue, 10 Nov 2026 18:12:02 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct",
@@ -350,6 +224,132 @@
       "description": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
       "published": "Tue, 10 Nov 2026 15:30:06 +0000",
       "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest",
+      "link": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
+      "description": "Najib Razak, who was brought down in the multibillion-dollar 1MDB scandal, was released from prison to serve the rest of his sentence in his mansion.",
+      "published": "Tue, 10 Nov 2026 14:22:53 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+      "description": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold.",
+      "published": "Tue, 10 Nov 2026 14:15:54 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+      "description": "A U.S. Army unit in Germany is not sure what’s next as the Pentagon considers a major drawdown of forces in Europe.",
+      "published": "Tue, 10 Nov 2026 12:58:18 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+      "description": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils.",
+      "published": "Tue, 10 Nov 2026 12:57:00 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
+      "description": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say.",
+      "published": "Tue, 10 Nov 2026 12:51:02 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Who Is David Walliams, the UK Entertainer Accused of Sexual Misconduct?",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
+      "description": "The British entertainer rose to fame with the television show “Little Britain” and has published over 40 children’s books.",
+      "published": "Tue, 10 Nov 2026 12:39:28 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "description": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
+      "published": "Tue, 10 Nov 2026 11:29:10 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
+      "link": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
+      "description": "The government is also considering changes to criminal law to penalize companies that develop models that “engage in harmful conduct.”",
+      "published": "Tue, 10 Nov 2026 11:01:07 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "As Fresh Air Becomes a Luxury, Many Indonesians Turn on Their Leader",
+      "link": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
+      "description": "In Indonesia, support for President Prabowo Subianto has collapsed as his government has failed to contain raging wildfires, compounding quality-of-life woes.",
+      "published": "Tue, 10 Nov 2026 10:32:25 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+      "description": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
+      "published": "Tue, 10 Nov 2026 10:08:25 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+      "description": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
+      "published": "Tue, 10 Nov 2026 10:01:42 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Haaretz Expands US Presence Amid Israel’s Move to the Right",
+      "link": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
+      "description": "Haaretz has more than doubled the size of its American bureau, including hiring correspondents to cover beats like national politics and young American Jews.",
+      "published": "Tue, 10 Nov 2026 10:01:09 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+      "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+      "description": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+      "published": "Tue, 10 Nov 2026 09:00:49 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "The Nvidia Affair",
+      "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+      "description": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
+      "published": "Tue, 10 Nov 2026 05:43:35 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "published": "Thu, 12 Nov 2026 10:02:32 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+      "description": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.",
+      "published": "Thu, 12 Nov 2026 10:00:56 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
+      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+      "description": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
+      "published": "Thu, 12 Nov 2026 09:45:46 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "published": "Thu, 12 Nov 2026 09:43:11 GMT",
+      "source": "feeds.bbci.co.uk"
     }
   ]
 }
