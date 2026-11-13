@@ -1,32 +1,11 @@
 {
-  "updated_at": "2026-11-12T10:03:43.066661+00:00",
+  "updated_at": "2026-11-13T09:50:36.360416+00:00",
   "articles": [
     {
       "title": "Download now",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "British soldier charged with rape of woman serving in Cyprus",
-      "link": "https://www.bbc.co.uk/news/articles/cvglr28re6n9o?at_medium=RSS&at_campaign=rss",
-      "description": "L/Cpl Nicholas Horne, serving in the Highlanders, was arrested and charged in October.",
-      "published": "Wed, 11 Nov 2026 22:34:37 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-      "published": "Wed, 11 Nov 2026 22:26:18 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "published": "Wed, 11 Nov 2026 21:43:35 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -61,7 +40,7 @@
       "title": "Kenya Starts Countdown to End of Ebola Outbreak",
       "link": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
       "description": "The milestone is further evidence that African countries have mostly succeeded in preventing community transmission and isolating the small number of cases that have come in from Congo.",
-      "published": "Wed, 11 Nov 2026 17:50:39 +0000",
+      "published": "Wed, 11 Nov 2026 17:50:40 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -75,7 +54,7 @@
       "title": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
       "link": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
       "description": "Pope Leo spent nearly two decades in Peru, rising to bishop and becoming a citizen. But many Peruvians have turned to evangelical churches, seeking a more expressive and direct connection to God.",
-      "published": "Wed, 11 Nov 2026 15:10:05 +0000",
+      "published": "Wed, 11 Nov 2026 15:10:06 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -83,27 +62,6 @@
       "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
       "description": "In a memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls political battles and the killings of family members.",
       "published": "Wed, 11 Nov 2026 14:41:22 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
-      "description": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
-      "published": "Wed, 11 Nov 2026 13:41:53 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-      "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
-      "published": "Wed, 11 Nov 2026 12:58:17 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
-      "link": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
-      "description": "“It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.",
-      "published": "Wed, 11 Nov 2026 12:21:43 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -135,13 +93,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
-      "link": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
-      "description": "The 2026 Youth Olympic Games are taking place in Senegal, where the beaches and streets are teeming with sports fans and fitness fanatics.",
-      "published": "Wed, 11 Nov 2026 05:00:21 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
       "link": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
       "description": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
@@ -154,6 +105,13 @@
       "description": "Dozens of first-time lawmakers were sworn into the Knesset, where the opposition, led by Gadi Eisenkot, now has a majority.",
       "published": "Wed, 11 Nov 2026 03:33:32 +0000",
       "source": "rss.nytimes.com"
+    },
+    {
+      "title": "The mammoth effort to entomb the ruins of the Chernobyl nuclear power plant",
+      "link": "https://www.bbc.co.uk/iplayer/episode/b08650s6?at_mid=gEXl0ndPjx&at_campaign=Inside_Chernobyls_Mega_Tomb&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b08650s6&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Inside_Chernobyls_Mega_Tomb&at_bbc_team=BBC",
+      "description": "Film following the team racing to entomb the ruins of the Chernobyl nuclear power plant.",
+      "published": "Wed, 07 Jan 2026 22:00:23 GMT",
+      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
@@ -233,24 +191,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
-      "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
-      "description": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold.",
-      "published": "Tue, 10 Nov 2026 14:15:54 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
       "link": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
       "description": "A U.S. Army unit in Germany is not sure what’s next as the Pentagon considers a major drawdown of forces in Europe.",
       "published": "Tue, 10 Nov 2026 12:58:18 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
-      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-      "description": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils.",
-      "published": "Tue, 10 Nov 2026 12:57:00 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -268,13 +212,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
-      "description": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
-      "published": "Tue, 10 Nov 2026 11:29:10 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
       "link": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
       "description": "The government is also considering changes to criminal law to penalize companies that develop models that “engage in harmful conduct.”",
@@ -289,67 +226,130 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
-      "description": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
-      "published": "Tue, 10 Nov 2026 10:08:25 +0000",
+      "title": "Indonesia’s Vice President, Gibran, Resigns",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+      "description": "Gibran Rakabuming Raka, who is stepping down amid a scandal over his academic credentials, was a symbol of the partnership that elevated President Prabowo Subianto into office.",
+      "published": "Thu, 12 Nov 2026 23:40:14 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
-      "description": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
-      "published": "Tue, 10 Nov 2026 10:01:42 +0000",
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+      "description": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+      "published": "Thu, 12 Nov 2026 22:54:20 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Haaretz Expands US Presence Amid Israel’s Move to the Right",
-      "link": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
-      "description": "Haaretz has more than doubled the size of its American bureau, including hiring correspondents to cover beats like national politics and young American Jews.",
-      "published": "Tue, 10 Nov 2026 10:01:09 +0000",
+      "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+      "description": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said.",
+      "published": "Thu, 12 Nov 2026 22:16:40 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-      "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-      "description": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
-      "published": "Tue, 10 Nov 2026 09:00:49 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "The Nvidia Affair",
-      "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-      "description": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
-      "published": "Tue, 10 Nov 2026 05:43:35 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "published": "Thu, 12 Nov 2026 10:02:32 GMT",
+      "title": "Where does record-breaking Kane rank among all-time England greats?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+      "description": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
+      "published": "Thu, 12 Nov 2026 22:09:59 GMT",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+      "description": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold.",
+      "published": "Thu, 12 Nov 2026 22:04:47 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
+      "link": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
+      "description": "The prosecutor, who faces arrest in Mexico after allowing C.I.A. officers into Chihuahua state, is under the protection of the U.S. government, according to U.S. and Mexican officials.",
+      "published": "Thu, 12 Nov 2026 22:00:29 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgk0w34lkpo?at_medium=RSS&at_campaign=rss",
+      "description": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "Thu, 12 Nov 2026 20:22:21 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "A Key Paris Agreement Goal Is Dead. What Now?",
+      "link": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+      "description": "Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”",
+      "published": "Thu, 12 Nov 2026 20:15:04 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+      "description": "The Israeli authorities said that Hamas had established a command center at the hospital complex. Hamas said the attack was “a heinous crime targeting a civilian medical facility.”",
+      "published": "Thu, 12 Nov 2026 17:38:28 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+      "description": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
+      "published": "Thu, 12 Nov 2026 14:43:08 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
+      "link": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
+      "description": "The 2026 Youth Olympic Games are taking place in Senegal, where the beaches and streets are teeming with sports fans and fitness fanatics.",
+      "published": "Thu, 12 Nov 2026 14:37:42 +0000",
+      "source": "rss.nytimes.com"
     },
     {
       "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
       "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
       "description": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.",
-      "published": "Thu, 12 Nov 2026 10:00:56 +0000",
+      "published": "Thu, 12 Nov 2026 10:00:57 +0000",
       "source": "rss.nytimes.com"
     },
     {
       "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
       "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
       "description": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
-      "published": "Thu, 12 Nov 2026 09:45:46 +0000",
+      "published": "Thu, 12 Nov 2026 09:45:47 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "published": "Thu, 12 Nov 2026 09:43:11 GMT",
-      "source": "feeds.bbci.co.uk"
+      "title": "This Defense Makes Drones (and GPS) Think They’re in Peru",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
+      "description": "GPS-linked devices have been insisting that Ukrainians are in Lima, the Peruvian capital. The culprit is a jamming system built to thwart Russian airstrikes.",
+      "published": "Thu, 12 Nov 2026 08:25:07 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "description": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
+      "published": "Thu, 12 Nov 2026 07:30:40 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "A.I. and Market Whiplash",
+      "link": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+      "description": "A Times reporter who covers financial markets helps us make sense of tech turbulence.",
+      "published": "Thu, 12 Nov 2026 05:30:46 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+      "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+      "description": "Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.",
+      "published": "Thu, 12 Nov 2026 05:01:11 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+      "description": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
+      "published": "Thu, 12 Nov 2026 03:22:36 +0000",
+      "source": "rss.nytimes.com"
     }
   ]
 }
