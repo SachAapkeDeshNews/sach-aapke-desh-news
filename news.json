@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T10:28:51.423726+00:00",
+  "updated_at": "2026-11-19T10:36:05.896279+00:00",
   "articles": [
     {
       "title": "Download now",
@@ -9,31 +9,185 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "A Visual Tour of President Trump’s Visits to Asia",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-      "description": "President Trump left the Philippines and headed to China, where he is expected to meet with leaders, including the presidents of Russia and China.",
-      "published": "Wed, 18 Nov 2026 10:24:36 +0000",
+      "title": "How We Broke Open the Nvidia Investigation",
+      "link": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+      "description": "A global reporting effort by The New York Times included many twists and turns, from surprising photos and shipment records to a big break through astonishing tips from sources.",
+      "published": "Wed, 18 Nov 2026 23:52:05 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "published": "Wed, 18 Nov 2026 10:23:57 GMT",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "description": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "published": "Wed, 18 Nov 2026 23:47:46 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
-      "description": "President Trump’s host in Manila put in a late-night order from the Filipino fast-food chain Jollibee for the American leader.",
-      "published": "Wed, 18 Nov 2026 10:21:51 +0000",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "description": "No state has ever been found guilty by an international court of committing genocide.",
+      "published": "Wed, 18 Nov 2026 23:04:06 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Littler shocked by brilliant Wattimena at Grand Slam",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o?at_medium=RSS&at_campaign=rss",
+      "description": "Defending champion Luke Littler suffers a shock early exit at the Grand Slam of Darts after a stunning display from Jermaine Wattimena.",
+      "published": "Wed, 18 Nov 2026 22:33:32 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+      "description": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
+      "published": "Wed, 18 Nov 2026 22:24:50 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Youssef M. Ibrahim, Who Covered Iran’s Revolution for The Times, Dies at 83",
+      "link": "https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html",
+      "description": "The Egyptian-born correspondent wrote about the Middle East during a time of dizzying transformation, and was expelled by Iran for his coverage.",
+      "published": "Wed, 18 Nov 2026 22:05:53 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Grand Theft Auto: An American Icon, Born in Britain",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+      "description": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
+      "published": "Wed, 18 Nov 2026 22:05:43 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "description": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "published": "Wed, 18 Nov 2026 21:28:08 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Prince Harry says he would rejoin army as he warns of Russia threat",
+      "link": "https://www.bbc.co.uk/news/articles/cm0qjw3edzkko?at_medium=RSS&at_campaign=rss",
+      "description": "The Duke of Sussex thought people should be ready to serve again for their country if needed.",
+      "published": "Wed, 18 Nov 2026 20:55:15 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+      "description": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+      "published": "Wed, 18 Nov 2026 20:29:31 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
+      "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
+      "description": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.",
+      "published": "Wed, 18 Nov 2026 20:08:36 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+      "link": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+      "description": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes.",
+      "published": "Wed, 18 Nov 2026 17:42:27 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "published": "Wed, 18 Nov 2026 17:34:25 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+      "description": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
+      "published": "Wed, 18 Nov 2026 15:37:11 +0000",
       "source": "rss.nytimes.com"
     },
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
       "description": "suggested the rush to patch systems, whose vulnerabilities are exposed by A.I.",
-      "published": "Wed, 18 Nov 2026 10:16:31 +0000",
+      "published": "Wed, 18 Nov 2026 15:05:28 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
+      "description": "Daithi O’Corrain sealed himself inside a National Guard C-130 at Ireland’s Shannon Airport in April for hours, causing so much damage that the aircraft was retired from service, prosecutors said.",
+      "published": "Wed, 18 Nov 2026 14:59:03 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Gen Z: Tell Us Your Political Hopes",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/gen-z-protests-politics-what-do-you-want.html",
+      "description": "Young people are protesting for a better world in countries across the globe. Let’s talk about it.",
+      "published": "Wed, 18 Nov 2026 14:22:31 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
+      "description": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
+      "published": "Wed, 18 Nov 2026 14:16:41 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Putin renews his warm bond with Xi.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
+      "description": "The Russian leader demonstrated that despite his isolation from many Western nations over the war in Ukraine, he remains on good terms with much of the rest of the world.",
+      "published": "Wed, 18 Nov 2026 14:14:34 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Big Money, Existential Risks",
+      "link": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
+      "description": "Anthropic’s prospectus for its blockbuster I.P.O. this week reads like dystopian science fiction.",
+      "published": "Wed, 18 Nov 2026 14:09:54 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Leaders of China and Japan Meet Amid Political Feud",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+      "description": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
+      "published": "Wed, 18 Nov 2026 13:46:45 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
+      "description": "President Trump’s host in Manila put in a late-night order from the Filipino fast-food chain Jollibee for the American leader.",
+      "published": "Wed, 18 Nov 2026 13:29:27 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Fried chicken and a chat with an old friend: How Marcos catered to Trump",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
+      "description": "President Ferdinand R. Marcos Jr. of the Philippines flattered President Trump during his brief visit to Manila. It is unclear what dividends the strategy will yield.",
+      "published": "Wed, 18 Nov 2026 13:17:06 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
+      "description": "The appearance was the first time Xi Jinping had personally received a foreign dignitary at an airport during more than a decade as China’s leader.",
+      "published": "Wed, 18 Nov 2026 11:14:00 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
+      "description": "Russian military planes flew through the region, prompting Japan and South Korea to scramble jets in response, and drawing complaints from Taiwan.",
+      "published": "Wed, 18 Nov 2026 11:08:23 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -44,73 +198,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "What to Know About the Myanmar Genocide Case at the World Court",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
-      "description": "The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide.",
-      "published": "Wed, 18 Nov 2026 10:03:50 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
-      "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
-      "description": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
-      "published": "Wed, 18 Nov 2026 10:02:43 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
-      "link": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
-      "description": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
-      "published": "Wed, 18 Nov 2026 10:02:13 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
       "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
       "description": "President Trump and the former first lady of the Philippines know each other well, her son, the country’s leader, has said.",
       "published": "Wed, 18 Nov 2026 09:52:56 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "description": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-      "published": "Wed, 18 Nov 2026 09:28:35 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Explosive Bancroft sandpaper claims heap pressure on Cummins",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-      "published": "Wed, 18 Nov 2026 09:22:57 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Lammy urges Burnham to take UK back into the EU",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
-      "description": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future.",
-      "published": "Wed, 18 Nov 2026 09:03:15 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Manchester won't always be blue - Pochettino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
-      "description": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
-      "published": "Wed, 18 Nov 2026 08:42:28 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "BBC correspondents discuss why historic US, China and Russia meeting matters",
-      "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
-      "published": "Wed, 18 Nov 2026 08:33:32 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Tracking China’s Intensifying War of Words Against Japan",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "description": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
-      "published": "Wed, 18 Nov 2026 08:14:28 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -121,27 +212,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Harry Styles, Cher, Sam Fender and Billie Eilish to headline Glastonbury 2027",
-      "link": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
-      "description": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
-      "published": "Wed, 18 Nov 2026 07:59:54 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Cowboy boots, cocktails and casinos - how do three US grands prix compare?",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6d91xl13pggo?at_medium=RSS&at_campaign=rss",
-      "description": "F1 struggled to establish itself in the United States, but now hosts three grands prix. We compare the merits of Austin, Miami and Las Vegas.",
-      "published": "Wed, 18 Nov 2026 07:50:26 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "published": "Wed, 18 Nov 2026 07:48:18 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Rio Tinto to Pay $250 Million to Address Mine’s Environmental Damage",
       "link": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
       "description": "The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine.",
@@ -149,115 +219,17 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Josh Kerr: The making of the man behind the shades",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo?at_medium=RSS&at_campaign=rss",
-      "description": "People know Josh Kerr the athlete. But are there two Josh Kerrs? The mile world record holder talks about disguising alcohol-free cider, entering races under a false name and his granny keeping him humble.",
-      "published": "Wed, 18 Nov 2026 07:18:18 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "From one of Ajax's future stars to quitting football for music",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
-      "description": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-      "published": "Wed, 18 Nov 2026 07:02:42 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Rubio Says Rush to Secure Systems May Be Causing Failures",
+      "title": "Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages",
       "link": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
       "description": "Secretary of State Marco Rubio suggested the rush to patch systems, whose vulnerabilities are exposed by A.I., may explain recent failures with air traffic controls, banks and government agencies.",
       "published": "Wed, 18 Nov 2026 06:46:29 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Is the 3pm football blackout outdated or still relevant in 2026?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
-      "description": "After 60 years, is time finally running out on the 3pm blackout in football?",
-      "published": "Wed, 18 Nov 2026 06:27:11 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "What's gone wrong at Britain's worst bathing site?",
-      "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-      "published": "Wed, 18 Nov 2026 06:12:44 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Big Money, Existential Risks",
-      "link": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
-      "description": "Anthropic’s prospectus for its blockbuster I.P.O. this week reads like dystopian science fiction.",
-      "published": "Wed, 18 Nov 2026 06:08:02 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "George thought his funeral was paid for – but now his wife will get nothing when he dies",
-      "link": "https://www.bbc.co.uk/news/articles/cq23jvxm3jldo?at_medium=RSS&at_campaign=rss",
-      "description": "George Davies made payments to an insurance company for 17 years, but now he isn't entitled to a penny.",
-      "published": "Wed, 18 Nov 2026 06:07:34 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-      "published": "Wed, 18 Nov 2026 06:07:25 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Chris Mason: Milburn Neets report may have gifted Labour MPs a moral argument for welfare reform",
-      "link": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss",
-      "description": "There is hope his Neets report has created a case on benefits which MPs can back, writes political editor Chris Mason.",
-      "published": "Wed, 18 Nov 2026 06:00:38 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Burnham promises to 'move quickly' on Neets report",
-      "link": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
-      "description": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-ranging changes to help unemployed young people.",
-      "published": "Wed, 18 Nov 2026 06:00:24 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Trump Meets Philippine Leader Before Flying to China",
-      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "description": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
-      "published": "Wed, 18 Nov 2026 06:00:22 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "'Human' is Cambridge Dictionary Word of the Year",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno?at_medium=RSS&at_campaign=rss",
-      "description": "The growth of AI means we need to say when something is made by humans, says the book's editor.",
-      "published": "Wed, 18 Nov 2026 05:39:39 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
       "link": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
       "description": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
       "published": "Wed, 18 Nov 2026 05:01:06 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
-      "description": "",
-      "published": "Wed, 18 Nov 2026 04:29:13 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-      "description": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-      "published": "Wed, 18 Nov 2026 04:00:54 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "They’re Young and Frustrated and Want France to Change. They Disagree on How.",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
-      "description": "One is a left-wing student leader, the other a young far-right activist. Together, Soumaya Sarré and Louise Montangon reflect the polarization of France, where more protests and strikes took place on Tuesday.",
-      "published": "Wed, 18 Nov 2026 03:46:06 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -268,20 +240,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
-      "description": "Most demonstrators were students who said their government was more focused on its relationship with the United States than helping Filipinos.",
-      "published": "Wed, 18 Nov 2026 03:07:55 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
       "link": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
       "description": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
@@ -289,66 +247,108 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Largest British study to check social media ban's effect on youth mental health",
-      "link": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss",
-      "description": "Ten different research teams will look at how well teenagers are coping without social media.",
-      "published": "Wed, 18 Nov 2026 00:49:31 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "description": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-      "published": "Wed, 18 Nov 2026 00:44:48 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
-      "description": "Andy Burnham wants \"steps\" towards a closer EU alignment. But the bloc has changed considerably since the UK left it",
-      "published": "Wed, 18 Nov 2026 00:39:06 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-      "description": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-      "published": "Tue, 17 Nov 2026 23:34:56 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Youssef M. Ibrahim, Who Covered Iran’s Revolution for The Times, Dies at 83",
-      "link": "https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html",
-      "description": "The Egyptian-born correspondent wrote about the Middle East during a time of dizzying transformation, and was expelled by Iran for his coverage.",
-      "published": "Tue, 17 Nov 2026 23:26:17 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Watch: Millions of red crabs start annual migration on Christmas Island",
-      "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
-      "description": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
-      "published": "Tue, 17 Nov 2026 23:05:39 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
-      "published": "Tue, 17 Nov 2026 23:02:12 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Home secretary plans to tackle 'perception of two-tier policing'",
-      "link": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
-      "description": "Shabana Mahmood will announce stronger guidance on police impartiality.",
-      "published": "Tue, 17 Nov 2026 22:31:32 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
       "link": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
       "description": "Matan Kahana, a lawmaker from Gadi Eisenkot’s party, will take control of the legislative process as the opposition looks to press Prime Minister Benjamin Netanyahu on multiple fronts.",
       "published": "Tue, 17 Nov 2026 21:54:22 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "A.I.’s People-Pleasing Problem",
+      "link": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
+      "description": "A new report found that popular chatbots often abandon scientific facts to affirm users’ beliefs.",
+      "published": "Tue, 17 Nov 2026 19:16:41 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Anne Thurston Has Died. She Revealed Salacious Details of Mao’s Life.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/anne-thurston-dead.html",
+      "description": "Dr. Thurston’s works documented Mao Zedong’s personal life and the traumas of the Cultural Revolution, earning scholarly accolades — and scorn from Beijing.",
+      "published": "Tue, 17 Nov 2026 17:49:58 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
+      "description": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.",
+      "published": "Tue, 17 Nov 2026 16:00:01 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Live Updates: Trump Holds First Summit With Xi and Putin, Whom He Calls ‘Friend’",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+      "description": "President Trump said that he would bring up the war in Ukraine at the first-ever meeting of leaders of Russia, China and the United States.",
+      "published": "Thu, 19 Nov 2026 10:29:09 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "How the War in Iran Will Remake the Global Energy Order",
+      "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+      "description": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
+      "published": "Thu, 19 Nov 2026 10:27:38 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "A village was burned, its people killed or exiled. Was it part of a genocide?",
+      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
+      "description": "",
+      "published": "Thu, 19 Nov 2026 10:17:31 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "published": "Thu, 19 Nov 2026 10:12:16 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Colombia’s President Is Acquiring a Reputation for Courting Controversy",
+      "link": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
+      "description": "Colombia’s new leader, Abelardo De La Espriella, presents himself as a warrior against criminal groups and woke culture, and courts controversy at every turn.",
+      "published": "Thu, 19 Nov 2026 10:03:10 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+      "link": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+      "description": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
+      "published": "Thu, 19 Nov 2026 10:02:50 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "UK to provide Ukraine with 1,000 long-range strike drones",
+      "link": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister is set to make the announcement at a meeting of the Coalition of the Willing in Berlin.",
+      "published": "Thu, 19 Nov 2026 10:00:02 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
+      "description": "",
+      "published": "Thu, 19 Nov 2026 09:44:35 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+      "description": "",
+      "published": "Thu, 19 Nov 2026 09:42:02 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Leasehold system set to be scrapped in England and Wales",
+      "link": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+      "description": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.",
+      "published": "Thu, 19 Nov 2026 09:26:59 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "After Crippling Crimea Bridge, Ukraine Attacks It Again",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+      "description": "Russia has vowed to quickly restore the structure, but engineering specialists say the work could take years.",
+      "published": "Thu, 19 Nov 2026 09:24:04 +0000",
       "source": "rss.nytimes.com"
     }
   ]
