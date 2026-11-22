@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T10:01:49.230329+00:00",
+  "updated_at": "2026-11-22T10:03:20.056147+00:00",
   "articles": [
     {
       "title": "Download now",
@@ -9,10 +9,17 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "'Real life' family ghost story inspires 'nightmarish' new TV drama",
-      "link": "https://www.bbc.co.uk/news/articles/c6y4j73319dmo?at_medium=RSS&at_campaign=rss",
-      "description": "The \"real-life ghost story\" was filmed in Wales and stars Black Doves actress Gabrielle Creevy.",
-      "published": "Wed, 18 Nov 2026 06:10:18 GMT",
+      "title": "How one teenager's alpacas are helping children with additional needs",
+      "link": "https://www.bbc.co.uk/news/articles/cr2klx1ke5dgo?at_medium=RSS&at_campaign=rss",
+      "description": "The farm's alpacas and Valais Blacknose sheep make the pupils at the local school relaxed and happy.",
+      "published": "Wed, 18 Nov 2026 06:05:34 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Baby thriving after 3D-printed model used to save her heart",
+      "link": "https://www.bbc.co.uk/news/articles/cq892gz0e8lo?at_medium=RSS&at_campaign=rss",
+      "description": "A 3D printed model of Penny's heart was used to help her parents and medics see what was needed.",
+      "published": "Wed, 11 Nov 2026 06:05:49 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -23,10 +30,10 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Freshers' flu left me deaf in both ears - I'm now helping people like me drive",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2p5p4jkvo?at_medium=RSS&at_campaign=rss",
-      "description": "Darcie Parker, 22, is now delivering courses about teaching deaf people how to drive.",
-      "published": "Tue, 17 Nov 2026 10:21:07 GMT",
+      "title": "Police dogs named after officers killed in crash",
+      "link": "https://www.bbc.co.uk/news/articles/c63eg3ynwgqyo?at_medium=RSS&at_campaign=rss",
+      "description": "Cleveland Police's dog unit calls the five-month-old cocker spaniels PD Bladesy and PD Tommy.",
+      "published": "Tue, 17 Nov 2026 09:33:36 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -72,25 +79,11 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
-      "description": "As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.",
-      "published": "Thu, 19 Nov 2026 16:56:13 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
       "link": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
       "description": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
       "published": "Thu, 19 Nov 2026 16:51:57 +0000",
       "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Rare rhino's first steps captured on video at zoo",
-      "link": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
-      "description": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
-      "published": "Thu, 19 Nov 2026 16:28:41 GMT",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "title": "The Rohingya Crisis Over the Years",
@@ -121,13 +114,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-      "description": "Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court found that Myanmar was culpable for the atrocities.",
-      "published": "Thu, 19 Nov 2026 15:40:39 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
       "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
       "description": "",
@@ -142,24 +128,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
-      "description": "",
-      "published": "Thu, 19 Nov 2026 14:09:44 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "Life in the Rohingya camps in Bangladesh is becoming more precarious.",
       "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
       "description": "",
       "published": "Thu, 19 Nov 2026 13:50:11 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "How the War in Iran Will Remake the Global Energy Order",
-      "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-      "description": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
-      "published": "Thu, 19 Nov 2026 12:51:18 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -177,13 +149,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
-      "description": "The secluded Kylin Villa resort in the Chinese city of Shenzhen once hosted the North Korean dictator, Xi Jinping’s father and envoys of the Dalai Lama.",
-      "published": "Thu, 19 Nov 2026 10:58:24 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "On nukes, Trump says, ‘It’s very hard to give them up.’ It’s been done before.",
       "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/on-nukes-trump-says-its-very-hard-to-give-them-up-its-been-done-before",
       "description": "",
@@ -191,164 +156,199 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "A village was burned, its people killed or exiled. Was it part of a genocide?",
-      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
-      "description": "",
-      "published": "Thu, 19 Nov 2026 10:17:31 +0000",
+      "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+      "description": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+      "published": "Sun, 22 Nov 2026 09:49:15 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Las Vegas Grand Prix weekend.",
+      "published": "Sun, 22 Nov 2026 09:35:05 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "published": "Sun, 22 Nov 2026 09:20:45 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+      "description": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
+      "published": "Sun, 22 Nov 2026 09:07:15 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "description": "The couple have been together for four years and were engaged in 2025.",
+      "published": "Sun, 22 Nov 2026 08:46:28 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+      "published": "Sun, 22 Nov 2026 08:41:20 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "description": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+      "published": "Sun, 22 Nov 2026 08:35:05 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Colombia’s President Is Acquiring a Reputation for Courting Controversy",
-      "link": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
-      "description": "Colombia’s new leader, Abelardo De La Espriella, presents himself as a warrior against criminal groups and woke culture, and courts controversy at every turn.",
-      "published": "Thu, 19 Nov 2026 10:03:10 +0000",
+      "title": "Why Arsenal are behind in race for Women's Champions League spots",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
+      "published": "Sun, 22 Nov 2026 07:17:10 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "published": "Sun, 22 Nov 2026 07:12:41 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+      "description": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
+      "published": "Sun, 22 Nov 2026 06:58:17 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Aung San Suu Kyi did not condemn the pogroms against the Rohingya.",
-      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/aung-san-suu-kyi-did-not-condemn-the-pogroms-against-the-rohingya",
-      "description": "",
-      "published": "Thu, 19 Nov 2026 09:07:24 +0000",
+      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
+      "published": "Sun, 22 Nov 2026 06:21:55 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
+      "description": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
+      "published": "Sun, 22 Nov 2026 06:01:49 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+      "description": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.",
+      "published": "Sun, 22 Nov 2026 05:01:13 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Half a world from The Hague, Rohingya refugees know nothing of a genocide trial.",
-      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
-      "description": "",
-      "published": "Thu, 19 Nov 2026 08:39:44 +0000",
+      "title": "The real people finding their work copied and stolen by AI characters",
+      "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+      "description": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
+      "published": "Sun, 22 Nov 2026 05:00:38 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Wales coach Tandy frustrated by Australia defeat",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregq87258o?at_medium=RSS&at_campaign=rss",
+      "description": "Wales head coach Steve Tandy said he was frustrated after his side failed to back up their epic win over New Zealand with victory against Australia.",
+      "published": "Sun, 22 Nov 2026 04:50:34 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+      "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+      "published": "Sun, 22 Nov 2026 04:39:13 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "description": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+      "published": "Sun, 22 Nov 2026 04:28:43 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "How to Decode the Xi-Trump Hug",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
-      "description": "The welcome China’s leader, Xi Jinping, offered President Trump appeared to reflect a desire for a measure of stability at a time of growing disagreements.",
-      "published": "Thu, 19 Nov 2026 08:32:47 +0000",
+      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "description": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+      "published": "Sun, 22 Nov 2026 03:44:20 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html",
-      "description": "The leaders of Australia and Canada defended their decision to join the APEC group portrait as a courtesy to the host, China, despite criticism at home.",
-      "published": "Thu, 19 Nov 2026 06:46:07 +0000",
+      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+      "description": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "published": "Sun, 22 Nov 2026 01:56:16 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
-      "description": "A song chosen to welcome Sanae Takaichi at the APEC summit in Shenzhen grew out of protests against the American military presence in Japan.",
-      "published": "Thu, 19 Nov 2026 03:03:43 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "published": "Sat, 21 Nov 2026 09:52:11 GMT",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "published": "Sun, 22 Nov 2026 01:25:03 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "published": "Sat, 21 Nov 2026 09:40:55 GMT",
+      "title": "The Papers: Kate's 'road to recovery' and 'Brave princess'",
+      "link": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o?at_medium=RSS&at_campaign=rss",
+      "description": "Catherine, Princess of Wales is pictured on several front pages following news of her new documentary.",
+      "published": "Sun, 22 Nov 2026 00:43:19 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "published": "Sat, 21 Nov 2026 09:34:20 GMT",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "published": "Sun, 22 Nov 2026 00:09:58 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Harden passes Bryant for 50-point games",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/cwx2e8y1lr8lo?at_medium=RSS&at_campaign=rss",
-      "description": "James Harden moves third on the all-time list for 50-point NBA games as the Cleveland Cavaliers beat the Indiana Pacers 128-119 in the NBA Cup.",
-      "published": "Sat, 21 Nov 2026 09:10:18 GMT",
+      "title": "Parents urged to spot online stalking warning signs as cases rise",
+      "link": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss",
+      "description": "From fake profiles to unwanted contact, specialists explain the signs parents should take seriously.",
+      "published": "Sun, 22 Nov 2026 00:07:32 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "'Somebody has to stand up to that guy' - and Russell has his chance in Vegas",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
-      "description": "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row.",
-      "published": "Sat, 21 Nov 2026 08:13:58 GMT",
+      "title": "From pit-stops to go-to destinations: The transformation of service stations",
+      "link": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
+      "description": "Once a quick pause on a long trip, service stations are becoming destinations in their own right.",
+      "published": "Sun, 22 Nov 2026 00:06:03 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "published": "Sat, 21 Nov 2026 08:10:25 GMT",
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "published": "Sun, 22 Nov 2026 00:04:07 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "description": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-      "published": "Sat, 21 Nov 2026 07:11:24 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Athlete who lost hand saving friends in attack 'would do it again'",
-      "link": "https://www.bbc.co.uk/sport/taekwondo/articles/crpdwljj0v89o?at_medium=RSS&at_campaign=rss",
-      "description": "Ismael Ox was 11 years old when he lost his hand trying to protect his friends from a grenade - and now competes in Para-taekwondo for the USA.",
-      "published": "Sat, 21 Nov 2026 06:35:06 GMT",
+      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+      "description": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+      "published": "Sun, 22 Nov 2026 00:01:27 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
-      "description": "Ministers are expected to publish the details of how an independent review of the working environment at the Information Commission will be carried out next week.",
-      "published": "Sat, 21 Nov 2026 06:01:04 GMT",
+      "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
+      "description": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
+      "published": "Sat, 21 Nov 2026 22:27:36 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-      "description": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.",
-      "published": "Sat, 21 Nov 2026 05:01:09 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
-      "description": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
-      "published": "Sat, 21 Nov 2026 05:01:07 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "published": "Sat, 21 Nov 2026 04:34:00 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-      "description": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-      "published": "Sat, 21 Nov 2026 01:02:39 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "'I was exhausted': Two days in the shoes of a tradwife",
-      "link": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
-      "description": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
-      "published": "Sat, 21 Nov 2026 00:29:00 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
-      "link": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
-      "description": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
-      "published": "Sat, 21 Nov 2026 00:08:19 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-      "published": "Sat, 21 Nov 2026 00:06:11 GMT",
+      "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+      "description": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+      "published": "Sat, 21 Nov 2026 21:39:22 GMT",
       "source": "feeds.bbci.co.uk"
     }
   ]
