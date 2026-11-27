@@ -1,39 +1,11 @@
 {
-  "updated_at": "2026-11-26T11:17:01.877834+00:00",
+  "updated_at": "2026-11-27T11:10:35.728944+00:00",
   "articles": [
     {
       "title": "Download now",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Motorcycle passenger who took stunning cricket catch found",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
-      "description": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
-      "published": "Wed, 25 Nov 2026 23:50:02 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-      "description": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
-      "published": "Wed, 25 Nov 2026 23:26:50 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
-      "description": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
-      "published": "Wed, 25 Nov 2026 23:18:27 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
-      "description": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
-      "published": "Wed, 25 Nov 2026 22:32:51 GMT",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -58,13 +30,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
-      "link": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo?at_medium=RSS&at_campaign=rss",
-      "description": "How a wayward child from the north-east of England made it with the world's biggest band.",
-      "published": "Wed, 25 Nov 2026 22:16:14 GMT",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
       "link": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
       "description": "The blaze killed at least 31 and injured at least 21 near Giza, beside the Nile River, officials said.",
@@ -72,15 +37,8 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
-      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
-      "description": "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.",
-      "published": "Wed, 25 Nov 2026 20:45:09 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
-      "link": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
+      "link": "https://www.nytimes.com/2026/11/25/world/africa/mauritius-stray-dogs.html",
       "description": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
       "published": "Wed, 25 Nov 2026 20:40:27 +0000",
       "source": "rss.nytimes.com"
@@ -100,13 +58,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Japan’s Leader, in Break With U.S., Defends International Criminal Court",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-      "description": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
-      "published": "Wed, 25 Nov 2026 17:41:06 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
       "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
       "description": "Prosecutors said the two men, who appeared in court on Wednesday, had climbed a drainpipe to break into the royals’ country retreat in Norfolk.",
@@ -121,24 +72,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
-      "description": "Svalbard has a mining history that goes back over a century. But this icy archipelago is now a cruise ship destination and a geopolitical hot spot.",
-      "published": "Wed, 25 Nov 2026 16:47:22 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
       "link": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
       "description": "A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.",
       "published": "Wed, 25 Nov 2026 16:22:17 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
-      "link": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-      "description": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
-      "published": "Wed, 25 Nov 2026 14:45:10 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -153,13 +90,6 @@
       "link": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
       "description": "The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.",
       "published": "Wed, 25 Nov 2026 13:39:46 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
-      "description": "Six years after leaving the country, the Sussexes are back and arranging a careful program of public appearances. Will they complement the royal family, or compete with it?",
-      "published": "Wed, 25 Nov 2026 08:55:39 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -212,24 +142,10 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Pope Francis Diary Excerpts Published in New Book",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-      "description": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
-      "published": "Tue, 24 Nov 2026 22:03:38 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "‘Saturday Night Live’ Is Coming to France",
       "link": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
       "description": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
       "published": "Tue, 24 Nov 2026 21:13:22 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "description": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-      "published": "Tue, 24 Nov 2026 21:12:54 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -261,13 +177,6 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-      "description": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
-      "published": "Tue, 24 Nov 2026 16:27:04 +0000",
-      "source": "rss.nytimes.com"
-    },
-    {
       "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
       "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
       "description": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
@@ -296,24 +205,115 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
-      "description": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
-      "published": "Tue, 24 Nov 2026 11:55:30 +0000",
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "description": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "published": "Thu, 26 Nov 2026 23:17:12 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Watch: Zelensky on Trump and Putin",
+      "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "published": "Thu, 26 Nov 2026 22:06:20 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+      "description": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.",
+      "published": "Thu, 26 Nov 2026 21:40:09 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
-      "link": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
-      "description": "Nneka Henry works for the United Nations to help develop solutions to the chaos and calamity caused by cars, motorcycles and scooters, and help drum up the resources to improve safety.",
-      "published": "Tue, 24 Nov 2026 10:01:45 +0000",
+      "title": "Ontario Premier Says He’d Use a Gun to Protect His Family",
+      "link": "https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html",
+      "description": "Recent home invasions have stirred unease in Toronto. On Thursday, the premier of Ontario said he would fire a gun in self-defense ‘in a heartbeat.’",
+      "published": "Thu, 26 Nov 2026 21:36:16 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "The Return of Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
-      "description": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.",
-      "published": "Tue, 24 Nov 2026 05:44:38 +0000",
+      "title": "Fury 'never received' schizophrenia diagnosis",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
+      "description": "Paris Fury, the wife of Tyson Fury, says the boxer has never received a diagnosis of schizophrenia.",
+      "published": "Thu, 26 Nov 2026 21:25:00 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+      "description": "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.",
+      "published": "Thu, 26 Nov 2026 21:23:06 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+      "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+      "description": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.",
+      "published": "Thu, 26 Nov 2026 19:33:06 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "description": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.",
+      "published": "Thu, 26 Nov 2026 18:52:50 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Weekly quiz: Which music icon's house did Miley Cyrus get married at?",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2lv9yy72yo?at_medium=RSS&at_campaign=rss",
+      "description": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "Thu, 26 Nov 2026 18:31:07 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+      "description": "More governments in Europe are telling citizens to prepare for emergencies. After unexpected disruptions, many are listening.",
+      "published": "Thu, 26 Nov 2026 18:23:08 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "The Unbearable Heat of Delhi’s Summer Nights",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
+      "description": "Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.",
+      "published": "Thu, 26 Nov 2026 18:16:29 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+      "description": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
+      "published": "Thu, 26 Nov 2026 15:27:03 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport football expert Chris Sutton takes on Kings of Leon drummer Nathan Followill with his predictions for this weekend's Premier League games.",
+      "published": "Thu, 26 Nov 2026 15:01:48 GMT",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+      "description": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shafts flooded. Rescuers said they were losing hope that those still inside would be found alive.",
+      "published": "Thu, 26 Nov 2026 14:52:43 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
+      "description": "The actress Charlotte Arnould has accused the French movie star of raping her in 2018. He has denied any wrongdoing in the case.",
+      "published": "Thu, 26 Nov 2026 14:17:40 +0000",
+      "source": "rss.nytimes.com"
+    },
+    {
+      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+      "description": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
+      "published": "Thu, 26 Nov 2026 14:01:46 +0000",
       "source": "rss.nytimes.com"
     },
     {
@@ -324,32 +324,32 @@
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
-      "description": "The drop was largely driven by fewer people arriving from outside Europe. It reflects government action to restrict immigration after a public backlash.",
-      "published": "Thu, 26 Nov 2026 10:54:14 +0000",
+      "title": "El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html",
+      "description": "The president of El Salvador has widespread support among Haitians, who are tired of violence and hope he can be the one to finally end it.",
+      "published": "Thu, 26 Nov 2026 10:04:18 +0000",
       "source": "rss.nytimes.com"
     },
     {
-      "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-      "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "description": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
-      "published": "Thu, 26 Nov 2026 10:31:19 GMT",
-      "source": "feeds.bbci.co.uk"
+      "title": "The E.R. Closed at 5 P.M. A Dying Woman Showed Up 11 Minutes Too Late.",
+      "link": "https://www.nytimes.com/2026/11/26/world/canada/port-hardy-woman-dies-outside-er.html",
+      "description": "In rural British Columbia, Courtney McCowan died after paramedics tried to help her in a hospital’s parking lot.",
+      "published": "Thu, 26 Nov 2026 10:04:18 +0000",
+      "source": "rss.nytimes.com"
     },
     {
-      "title": "440 players, three days, one venue - the Nations Championship logistics logjam",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy4kmjggr9o?at_medium=RSS&at_campaign=rss",
-      "description": "The unprecedented demands of Nations Championship finals weekend have been met by meticulous planning.",
-      "published": "Thu, 26 Nov 2026 10:28:10 GMT",
-      "source": "feeds.bbci.co.uk"
+      "title": "How Birds With GPS and Audio Sensors Track Hidden Fishing Boats",
+      "link": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
+      "description": "Researchers are using seabirds equipped with GPS and audio gear to detect vessels that operate with no tracking signals and to assess the environmental hazards they pose.",
+      "published": "Thu, 26 Nov 2026 10:04:05 +0000",
+      "source": "rss.nytimes.com"
     },
     {
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-      "description": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-      "published": "Thu, 26 Nov 2026 10:25:51 GMT",
-      "source": "feeds.bbci.co.uk"
+      "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+      "description": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
+      "published": "Thu, 26 Nov 2026 09:14:30 +0000",
+      "source": "rss.nytimes.com"
     }
   ]
 }
